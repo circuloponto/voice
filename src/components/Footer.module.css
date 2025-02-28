@@ -1,0 +1,144 @@
+.footer {
+  width: calc(100vw - 145px);
+  margin-left: 79px;
+  margin-top: 100px;
+  padding: 60px 40px;
+  background: #ffffff;
+  border-top: 1px solid #2e80dd98;
+  box-sizing: border-box;
+}
+
+.footerContent {
+  width: 80%;  /* Match other sections that use 80% width */
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.footerLeft {
+  flex: 1;
+  max-width: 150px;
+}
+
+.footerLogo {
+  height: 50px;
+  width: auto;
+}
+
+.logoText {
+  color: #2E7FDD;
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.footerCenter {
+  flex: 2;
+  max-width: 300px;
+}
+
+.footerLinks {
+  display: flex;
+  justify-content: space-between;
+}
+
+.linkColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.linkColumn h4 {
+  color: #2E7FDD;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.linkColumn a, .linkColumn p {
+  color: #41659D;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.2s ease;
+}
+
+.linkColumn a:hover {
+  color: #2E7FDD;
+}
+
+.footerRight {
+  flex: 1;
+  max-width: 150px;
+}
+
+.social {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.social h4 {
+  color: #2E7FDD;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.socialLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.socialLinks a {
+  color: #41659D;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.2s ease;
+}
+
+.socialLinks a:hover {
+  color: #2E7FDD;
+}
+
+.footerRights {
+  width: 100%;
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #2e80dd98;
+  text-align: center;
+  color: #41659D;
+  font-size: 12px;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    width: 100vw;
+    margin-left: 0;
+    padding: 40px 20px;
+  }
+
+  .footerContent {
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+  }
+
+  .footerLeft, .footerCenter, .footerRight {
+    width: 100%;
+    max-width: none;
+    align-items: center;
+  }
+
+  .footerLinks {
+    width: 100%;
+    justify-content: space-around;
+  }
+
+  .linkColumn {
+    align-items: center;
+  }
+} 
