@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "projects": "Projetos",
+    "activities": "Atividades",
+    "outcomes": "Resultados",
+    "partners": "Parceiros",
+    "contact": "Contato",
+    "navigation": "Navegação"
+  },
+  "projects": {
+    "title": "Projeto VOICE",
+    "description": "O Projeto VOICE é uma iniciativa inovadora da UE que capacita pessoas com deficiência para se tornarem coaches de emprego, criando um ciclo sustentável de apoio ao emprego inclusivo.",
+    "readMore": "Leia Mais",
+    "mainText": "É UMA PLATAFORMA INOVADORA QUE PERMITE QUE OS GRUPOS-ALVO PROSPEREM EM SUA SINGULARIDADE, APOIANDO SUA INDIVIDUALIDADE PARA FAZÊ-LOS IR MAIS LONGE EM SUAS CARREIRAS."
+  },
+  "activities": {
+    "title": "Atividades",
+    "description": "Nosso programa transforma o suporte tradicional ao emprego, reconhecendo que a experiência vivida cria mentores exclusivamente qualificados.",
+    "mainText": "A VOICE FORNECE ATIVIDADES DE TREINAMENTO E MENTORIA PARA APOIAR GRUPOS-ALVO EM SEU DESENVOLVIMENTO PROFISSIONAL E AVANÇO NA CARREIRA. A VOICE FORNECE ATIVIDADES DE TREINAMENTO E MENTORIA PARA APOIAR GRUPOS-ALVO EM SEU DESENVOLVIMENTO PROFISSIONAL E AVANÇO NA CARREIRA. A VOICE FORNECE ATIVIDADES DE TREINAMENTO E MENTORIA PARA APOIAR GRUPOS-ALVO EM SEU DESENVOLVIMENTO PROFISSIONAL E AVANÇO NA CARREIRA. A VOICE FORNECE ATIVIDADES DE TREINAMENTO E MENTORIA PARA APOIAR GRUPOS-ALVO EM SEU DESENVOLVIMENTO PROFISSIONAL E AVANÇO NA CARREIRA."
+  },
+  "outcomes": {
+    "title": "Resultados",
+    "description": "Desde seu início, o VOICE demonstrou resultados impressionantes em taxas de colocação, satisfação e retenção de emprego.",
+    "mainText": "CRIA OPORTUNIDADES DE CRESCIMENTO E DESENVOLVIMENTO PROFISSIONAL, PERMITINDO QUE OS INDIVÍDUOS ALCANCEM SEUS OBJETIVOS DE CARREIRA E ATINJAM SEU PLENO POTENCIAL."
+  },
+  "partners": {
+    "title": "Parceiros",
+    "content": {
+      "paragraph1": "Em sua essência, o VOICE transforma os modelos tradicionais de apoio ao emprego, reconhecendo que a experiência vivida cria mentores exclusivamente qualificados. Participantes com deficiência passam por um treinamento abrangente para se tornarem especialistas em emprego, aprendendo a fornecer orientação profissional personalizada, estratégias de adaptação no local de trabalho e suporte contínuo a outros candidatos a emprego com deficiência.",
+      "paragraph2": "O programa segue um caminho estruturado: primeiro identificando candidatos com fortes habilidades de comunicação e experiência profissional, depois fornecendo treinamento especializado em coaching de carreira, legislação sobre deficiência, avaliação do local de trabalho e técnicas de advocacia. Os graduados do programa se tornam coaches de emprego certificados que trabalham diretamente com candidatos a emprego com deficiência para identificar pontos fortes, superar barreiras e navegar no panorama do emprego.",
+      "paragraph3": "O que torna o VOICE particularmente eficaz é sua abordagem entre pares. As relações coach-cliente são construídas com base na compreensão compartilhada e empatia autêntica. Isso cria espaços seguros onde os candidatos a emprego podem discutir abertamente os desafios do local de trabalho, desenvolver confiança e se beneficiar de soluções práticas que funcionaram para outros com deficiências semelhantes.",
+      "paragraph4": "O projeto estabeleceu parcerias com empregadores em vários setores, criando caminhos para empregos significativos e, simultaneamente, educando empresas sobre práticas inclusivas. Esse foco duplo cria mudanças sustentáveis nas culturas do local de trabalho, ao mesmo tempo em que abre portas para participantes individuais.",
+      "paragraph5": "Desde seu início, o VOICE demonstrou resultados impressionantes: maiores taxas de colocação no emprego, maior satisfação no trabalho e maior retenção no emprego em comparação com os serviços de suporte tradicionais. Para os próprios coaches, o programa oferece emprego significativo e desenvolvimento profissional, criando um ciclo virtuoso de empoderamento e oportunidade.",
+      "paragraph6": "O Projeto VOICE é um testemunho do compromisso da UE com práticas de emprego inclusivas e demonstra como a experiência vivida, quando adequadamente canalizada, pode se tornar um poderoso catalisador de mudança social e econômica."
+    }
+  },
+  "footer": {
+    "contact": "Contate-nos",
+    "email": "E-mail",
+    "phone": "Telefone",
+    "address": "Endereço",
+    "followUs": "Siga-nos",
+    "rights": "Todos os direitos reservados."
+  }
+} 

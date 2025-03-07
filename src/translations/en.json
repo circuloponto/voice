@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "activities": "Activities",
+    "outcomes": "Outcomes",
+    "partners": "Partners",
+    "contact": "Contact",
+    "navigation": "Navigation"
+  },
+  "projects": {
+    "title": "VOICE Project",
+    "description": "The VOICE Project is an innovative EU initiative that empowers individuals with disabilities to become employment coaches, creating a sustainable cycle of inclusive employment support.",
+    "readMore": "Read More",
+    "mainText": "IS AN INNOVATIVE PLATFORM ENABLING TARGET GROUPS TO PROSPER IN THEIR UNIQUENESS, SUPPORTING THEIR INDIVIDUALITY TO MAKE THEM REACH FURTHER IN THEIR CAREERS."
+  },
+  "activities": {
+    "title": "Activities",
+    "description": "Our program transforms traditional employment support by recognizing that lived experience creates uniquely qualified mentors.",
+    "mainText": "VOICE PROVIDES TRAINING AND MENTORING ACTIVITIES TO SUPPORT TARGET GROUPS IN THEIR PROFESSIONAL DEVELOPMENT AND CAREER ADVANCEMENT. OICE PROVIDES TRAINING AND MENTORING ACTIVITIES TO SUPPORT TARGET GROUPS IN THEIR PROFESSIONAL DEVELOPMENT AND CAREER ADVANCEMENT. OICE PROVIDES TRAINING AND MENTORING ACTIVITIES TO SUPPORT TARGET GROUPS IN THEIR PROFESSIONAL DEVELOPMENT AND CAREER ADVANCEMENT. OICE PROVIDES TRAINING AND MENTORING ACTIVITIES TO SUPPORT TARGET GROUPS IN THEIR PROFESSIONAL DEVELOPMENT AND CAREER ADVANCEMENT."
+  },
+  "outcomes": {
+    "title": "Outcomes",
+    "description": "Since its inception, VOICE has demonstrated impressive outcomes in job placement rates, satisfaction, and retention.",
+    "mainText": "CREATES OPPORTUNITIES FOR PROFESSIONAL GROWTH AND DEVELOPMENT, ENABLING INDIVIDUALS TO ACHIEVE THEIR CAREER GOALS AND REACH THEIR FULL POTENTIAL."
+  },
+  "partners": {
+    "title": "Partners",
+    "content": {
+      "paragraph1": "At its core, VOICE transforms traditional employment support models by recognizing that lived experience creates uniquely qualified mentors. Participants with disabilities undergo comprehensive training to become employment specialists, learning to provide personalized career guidance, workplace accommodation strategies, and ongoing support to fellow disabled job seekers.",
+      "paragraph2": "The program follows a structured pathway: first identifying candidates with strong communication skills and employment experience, then providing specialized training in career coaching, disability legislation, workplace assessment, and advocacy techniques. Graduates of the program become certified employment coaches who work directly with disabled job seekers to identify strengths, overcome barriers, and navigate the employment landscape.",
+      "paragraph3": "What makes VOICE particularly effective is its peer-to-peer approach. Coach-client relationships are built on shared understanding and authentic empathy. This creates safe spaces where job seekers can discuss workplace challenges openly, develop confidence, and benefit from practical solutions that have worked for others with similar disabilities.",
+      "paragraph4": "The project has established partnerships with employers across various sectors, creating pathways to meaningful employment while simultaneously educating businesses about inclusive practices. This dual focus creates sustainable change in workplace cultures while opening doors for individual participants.",
+      "paragraph5": "Since its inception, VOICE has demonstrated impressive outcomes: higher job placement rates, greater job satisfaction, and longer employment retention compared to traditional support services. For the coaches themselves, the program offers meaningful employment and professional development, creating a virtuous cycle of empowerment and opportunity.",
+      "paragraph6": "The VOICE Project stands as a testament to the EU's commitment to inclusive employment practices and demonstrates how lived experience, when properly channeled, can become a powerful catalyst for social and economic change."
+    }
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  }
+} 

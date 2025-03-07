@@ -4,12 +4,12 @@
 }
 
 .activities {
-  margin-top: 100px; /* Spacing from previous section */
+  margin-top: 100px;
   height:auto;
   width: calc(100vw - 145px);
-  background: var(--background);
+  background: #f5c15116;
   position: relative;
-  margin-left: 79px;
+  margin-left: 85px;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -33,7 +33,7 @@
 
 
 .text {
-  color: var(--textColor);
+  color: var(--color-green-dark);
  
   text-align: justify;
   font-size: 20px;
@@ -43,7 +43,7 @@
 
 .label {
     position: absolute;
-    left: -105px;
+    left: -110px;
     top: 45px;
     width: 79px;
     height: 30px;
@@ -55,12 +55,12 @@
   
   .label span {
     transform: rotate(-90deg);
-    color: #F6C867;
+    color: var(--color-coral);
     font-size: 25px;
     font-weight: 700;
     white-space: nowrap;
     position: absolute;
-    left: 0;
+    left: -4px;
     text-transform: capitalize;
   }
 
@@ -69,7 +69,8 @@
     top: 130px;
     left: -45px;
     width:1px;
-    border: 1px dashed #f9cc6c;
-    height: 375px;
+    border: 1px dashed var(--color-coral);
+    opacity: 0.5;
+    height: 250px;
     /* background: #f9cc6c; */
   }

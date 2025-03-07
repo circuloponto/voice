@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import Lenis from '@studio-freight/lenis';
+import './i18n';
 import './App.css';
 import Navbar from './components/Navbar';
 import Project from './components/Project';
