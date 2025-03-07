@@ -67,17 +67,16 @@
   justify-content: flex-start;
   background: rgba(255, 0, 0, 0);
   margin: 40px 0 0 0;
-
-  
 }
+
 .menuItems_container{
     display: flex;
     justify-content: center;
     max-width: 800px;
     gap: 1rem;
     margin-left: 50px;
-    
 }
+
 .nav_item {
   cursor: pointer;
   font-size: 16px;
@@ -216,14 +215,12 @@
     width: auto;
     justify-content: center;
     align-items: center;
-    
   }
 
   .language {
     position: absolute;
     right: 0;
     top: 0;
-    /* border-left: 1px solid #2e80dd98; */
   }
 
   .menuItems_container {

@@ -7,10 +7,10 @@ const Activities = () => {
 
   return (
     <section id="activities" className={styles.activities}>
-      <div className={styles.line}></div>
       <div className={styles.label}>
         <span>{t('activities.title')}</span>
       </div>
+      <div className={styles.line}></div>
       <div className={styles.activitiesContainer}>
         <div className={styles.text}>
           {t('activities.mainText')}

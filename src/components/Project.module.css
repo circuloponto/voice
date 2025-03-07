@@ -1,6 +1,6 @@
 .projects {
   margin-top: 200px; /* Account for navbar + logo extension */
-  height: 60vh;
+  height: auto; /* Change to auto height */
   width: calc(100vw - 145px);
   background: #b95353;
   position: relative;
@@ -37,9 +37,9 @@
 }
 .projectsContainer {
   width: 80%;
-  height: 100%;
+  height: auto;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 100px 0; /* Match Activities padding */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -146,14 +146,25 @@
   position: absolute;
   left: 0;
   text-transform: capitalize;
+  
+}
+
+.label span::first-letter {
+ /*  color: var(--color-yellow); */
+  font-size: 40px;
+  /* opacity: 0.5; */
+  
 }
 
 .line {
   position: absolute;
-  top: 120px;
-  left: -45px;
+  top: 130px;  /* Fixed position that works */
+  left: -44px;
   width: 1px;
-  border: 1px dashed var(--color-coral);
+  border-left: 0.13rem dotted var(--color-coral);
   opacity: 0.5;
-  height: calc(100% - 120px);
+  bottom: 0;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
 }

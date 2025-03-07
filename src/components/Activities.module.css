@@ -44,7 +44,7 @@
 .label {
     position: absolute;
     left: -110px;
-    top: 45px;
+    top: 55px;
     width: 79px;
     height: 30px;
     display: flex;
@@ -63,14 +63,22 @@
     left: -4px;
     text-transform: capitalize;
   }
-
-  .line{
+  .label span::first-letter {
+    /*  color: var(--color-yellow); */
+     font-size: 40px;
+     /* opacity: 0.5; */
+     
+   }
+  .line {
     position: absolute;
-    top: 130px;
+    top: 160px;
     left: -45px;
-    width:1px;
-    border: 1px dashed var(--color-coral);
+    width: 1px;
+    border-left: 0.13rem dotted var(--color-coral);
     opacity: 0.5;
-    height: 250px;
-    /* background: #f9cc6c; */
+    bottom: 0;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    
   }

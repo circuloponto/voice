@@ -56,13 +56,21 @@
   left: 0;
   text-transform: capitalize;
 }
-
+.label span::first-letter {
+  /*  color: var(--color-yellow); */
+   font-size: 40px;
+   /* opacity: 0.5; */
+   
+ }
 .line {
   position: absolute;
   top: 130px;
   left: -45px;
   width: 1px;
-  border: 1px dashed  var(--color-coral);
+  border-left: 1px dashed var(--color-coral);
   opacity: 0.5;
-  height: 375px;
+  bottom: 0;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
 } 

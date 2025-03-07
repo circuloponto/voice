@@ -1,6 +1,6 @@
 .outcomes {
   margin-top: 100px;
-  height: 60vh;
+  height: auto;
   width: calc(100vw - 145px);
   background-image: url('../assets/outcomes.jpg');
   position: relative;
@@ -38,9 +38,9 @@
 
 .outcomesContainer {
   width: 80%;
-  height: 100%;
+  height: auto;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 100px 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -71,7 +71,7 @@
 .label {
   position: absolute;
   left: -115px;
-  top: 50px;
+  top: 60px;
   width: 79px;
   height: 30px;
   display: flex;
@@ -90,15 +90,23 @@
   left: -3px;
   text-transform: capitalize;
 }
-
+.label span::first-letter {
+  /*  color: var(--color-yellow); */
+   font-size: 40px;
+   /* opacity: 0.5; */
+   
+ }
 .line {
   position: absolute;
-  top: 150px;
+  top: 160px;
   left: -45px;
   width: 1px;
-  border: 1px dashed var(--color-coral);
+  border-left: 1px dashed var(--color-coral);
   opacity: 0.5;
-  height: 350px;
+  bottom: 0;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
 }
 
 /* Add media query for smaller screens */

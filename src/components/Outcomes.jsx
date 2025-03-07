@@ -7,10 +7,10 @@ const Outcomes = () => {
 
   return (
     <section id="outcomes" className={styles.outcomes}>
-      <div className={styles.line}></div>
       <div className={styles.label}>
         <span>{t('outcomes.title')}</span>
       </div>
+      <div className={styles.line}></div>
       <div className={styles.tint}></div>
       <div className={styles.outcomesContainer}>
         <div className={styles.headline}>VOICE</div>
