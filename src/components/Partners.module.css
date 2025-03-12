@@ -8,6 +8,8 @@
   height: auto;
   width: calc(100vw - 145px);
   background: #f5c15116;
+  background: var(--color-yellow);
+  background: #e0ad3e15;
   position: relative;
   margin-left: 85px;
   background-size: cover;
@@ -27,7 +29,8 @@
 }
 
 .text {
-  color: var(--color-green-dark);
+  color: var(--color-white);
+  color: #466290;
   text-align: justify;
   font-size: 20px;
   font-weight: 600;
@@ -53,15 +56,12 @@
   font-weight: 700;
   white-space: nowrap;
   position: absolute;
-  left: 0;
+  left: 0px;
   text-transform: capitalize;
 }
-.label span::first-letter {
-  /*  color: var(--color-yellow); */
-   font-size: 40px;
-   /* opacity: 0.5; */
-   
- }
+/* .label span::first-letter {
+   font-size: 40px; 
+ } */
 .line {
   position: absolute;
   top: 130px;

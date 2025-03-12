@@ -3,7 +3,7 @@
   margin-left: 79px;
   margin-top: 100px;
   padding: 60px 40px;
-  background: #ffffff;
+  background: var(--color-beige);
   border-top: 1px solid #2e80dd98;
   box-sizing: border-box;
 }
@@ -28,7 +28,7 @@
 }
 
 .logoText {
-  color: #2E7FDD;
+  color: var(--color-coral);
   font-size: 24px;
   font-weight: 600;
   margin-top: 10px;
@@ -51,14 +51,14 @@
 }
 
 .linkColumn h4 {
-  color: #2E7FDD;
+  color: var(--color-coral);
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 5px;
 }
 
 .linkColumn a, .linkColumn p {
-  color: #41659D;
+  color: var(--color-blue);
   text-decoration: none;
   font-size: 14px;
   transition: color 0.2s ease;
@@ -80,7 +80,7 @@
 }
 
 .social h4 {
-  color: #2E7FDD;
+  color: var(--color-coral);
   font-size: 16px;
   font-weight: 600;
 }
