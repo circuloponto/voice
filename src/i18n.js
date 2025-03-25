@@ -4,7 +4,7 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 
 import enTranslations from './translations/en.json';
 import ptTranslations from './translations/pt.json';
-import nlTranslations from './translations/nl.json';
+import roTranslations from './translations/ro.json';
 
 i18n
   .use(LanguageDetector)
@@ -13,12 +13,13 @@ i18n
     resources: {
       en: { translation: enTranslations },
       pt: { translation: ptTranslations },
-      nl: { translation: nlTranslations }
+      nl: { translation: roTranslations }
     },
     fallbackLng: 'en',
     interpolation: {
       escapeValue: false
-    }
+    },
+    debug: true
   });
 
 export default i18n; 

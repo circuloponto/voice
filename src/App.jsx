@@ -1,14 +1,21 @@
+import React from 'react';
 import { useEffect } from 'react';
 import Lenis from '@studio-freight/lenis';
 import './i18n';
 import './App.css';
 import Navbar from './components/Navbar';
-import Project from './components/Project';
+import Objectives from './components/Objectives';
 import Grid from './components/Grid';
 import Activities from './components/Activities';
-import Outcomes from './components/Outcomes';
 import Partners from './components/Partners';
 import Footer from './components/Footer';
+import HeadlineObjectives from './components/HeadlineObjectives';
+import HeadlineTargetGroups from './components/HeadlineTargetGroups';
+import TargetGroups from './components/TargetGroups';
+import HeadlineResults from './components/HeadlineResults';
+import Results from './components/Results';
+import News from './components/News';
+import Disclaimer from './components/Disclaimer';
 
 function App() {
   useEffect(() => {
@@ -44,13 +51,23 @@ function App() {
 
   return (
     <div className="app">
+     {/*  <Disclaimer /> */}
       <Grid />
       <Navbar />
-      <Project />
+      <HeadlineObjectives />
+      <Objectives />
+      <HeadlineTargetGroups />
+      <TargetGroups />
+
+     {/*  <HeadlineTargetGroups /> */}
       <Activities />
-      <Outcomes />
+      <HeadlineResults />
+      <Results />
       <Partners />
+      <News />
       <Footer />
+     
+     
     </div>
   );
 }

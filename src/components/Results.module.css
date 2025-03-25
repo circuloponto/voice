@@ -1,0 +1,203 @@
+:root{
+    --textColor: #41659D;
+    --background: #f5c15126;
+  }
+  
+  .resultsSection {
+    margin-top: 100px;
+    height:auto;
+    width: calc(100vw - 145px);
+    background: #f5c15116;
+    background: #e16e5dc0;
+   /*  background: #e16e5d19; */
+   background-color: var(--color-coral);
+    position: relative;
+    margin-left: 85px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    padding: 100px ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+     
+  .text {
+    color: var(--color-white);
+   /*  color: #466290; */
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 600;
+    z-index: 10;
+    line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  } 
+  .bulletList {
+    list-style-type: disc; /* Ensure bullets are shown */
+    padding-left: 20px; /* Add some padding to align bullets */
+  }
+  
+  .bulletList li::marker {
+    color: var(--color-blue); /* Use your coral color variable */
+  }
+  .title{
+    color: var(--color-blue);
+    margin: 0 0 40px 0;
+  }
+  .subTitle{
+    color: var(--color-blue);
+    margin: 40px 0 40px 0;
+    align-self: flex-start;
+  }
+  
+  @keyframes alternateColors {
+    0% {
+      color: var(--color-coral);
+    }
+    50% {
+      color: var(--color-yellow);
+    }
+    100% {
+      color: var(--color-coral);
+    }
+  }
+
+  .label {
+    position: absolute;
+    left: -105px;
+    top: 57px;
+    width: 79px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform-origin: left center;
+  }
+  
+  .label span {
+    transform: rotate(-90deg);
+    color: var(--color-blue);
+    font-size: 25px;
+    font-weight: 700;
+    white-space: nowrap;
+    position: absolute;
+    left: -15px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+  }
+   /*  .label span::first-letter {
+       font-size: 40px; 
+     } */
+    .line {
+      position: absolute;
+      top: 160px;
+      left: -45px;
+      width: 1px;
+      border-left: 0.13rem dotted var(--color-blue);
+      opacity: 0.5;
+      bottom: 0;
+      border-right: none;
+      border-top: none;
+      border-bottom: none;
+      
+    }
+  
+  .icon {
+    margin-right: 10px;
+    font-size: 28px;
+    transform: rotate(0deg);
+    display: inline-block;
+    color: var(--color-blue);
+  }
+  
+  /* Mobile styles */
+@media screen and (max-width: 768px) {
+  .resultsSection {
+    width: calc(100vw - 60px);
+    margin-left: 40px;
+    padding: 40px 20px;
+    margin-top: 60px;
+  }
+
+  .text {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .bulletList {
+    padding-left: 15px;
+  }
+
+  .title {
+    margin: 0 0 25px 0;
+    font-size: 18px;
+  }
+
+  .subTitle {
+    margin: 25px 0;
+    font-size: 16px;
+  }
+
+  .label {
+    left: -59px;
+    top: 42px;
+    width: 60px;
+  }
+
+  .label span {
+    font-size: 20px;
+    left: -20px;
+  }
+
+  .line {
+    left: -22px;
+    top: 130px;
+  }
+}
+
+/* Small mobile styles */
+@media screen and (max-width: 480px) {
+  .resultsSection {
+    width: calc(100vw - 50px);
+    margin-left: 35px;
+    padding: 30px 15px;
+  }
+
+  .text {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+
+  .bulletList {
+    padding-left: 12px;
+  }
+
+  .title {
+    margin: 0 0 20px 0;
+    font-size: 16px;
+  }
+
+  .subTitle {
+    margin: 20px 0;
+    font-size: 15px;
+  }
+
+  .label {
+    left: -56px;
+    width: 55px;
+  }
+
+  .line {
+    left: -20px;
+  }
+}
+
+/*   @media (max-width: 1000px) {
+    .objectivesSection {
+      padding: 50px;
+    }
+  } */

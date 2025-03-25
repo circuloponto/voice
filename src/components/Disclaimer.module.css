@@ -1,0 +1,17 @@
+.disclaimerContainer {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-beige); /* Optional: background color */
+  margin: 0 auto;
+}
+
+.disclaimerImage {
+  width: 50%; /* Scale down by 30% */
+  height: auto;
+  max-height: 100%;
+  object-fit: cover;
+} 

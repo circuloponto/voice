@@ -1,38 +1,74 @@
 {
   "nav": {
-    "projects": "Projects",
+    "objectives": "Objectives",
+    "targetGroups": "Target Groups",
     "activities": "Activities",
-    "outcomes": "Outcomes",
+    "results": "Results",
     "partners": "Partners",
-    "contact": "Contact",
+    "news": "News",
     "navigation": "Navigation"
   },
-  "projects": {
-    "title": "VOICE Project",
-    "description": "The VOICE Project is an innovative EU initiative that empowers individuals with disabilities to become employment coaches, creating a sustainable cycle of inclusive employment support.",
-    "readMore": "Read More",
-    "mainText": "IS AN INNOVATIVE PLATFORM ENABLING TARGET GROUPS TO PROSPER IN THEIR UNIQUENESS, SUPPORTING THEIR INDIVIDUALITY TO MAKE THEM REACH FURTHER IN THEIR CAREERS."
+  "objectives": {
+    "title": "Objectives",
+    "paragraph1": "The VOICE project promotes the integration of structured volunteering into the Supported Employment model in Portugal and Romania, creating new employability pathways for people with disabilities or impairments. Volunteering is an effective means for skill development, confidence building, and promoting inclusion and diversity in workplaces and communities. In this context, the project aims to empower people with disabilities or impairments, expanding their role as active participants in society – both as volunteers and valued members of the workforce.",
+    "subTitle": "Specific Objectives:",
+    "bullet1": "Develop a Resource Kit for Employment-Oriented Volunteering, providing Supported Employment professionals with tools to integrate volunteering into the professional integration process.",
+    "bullet2": "Implement a pilot training for 24 professionals, evaluating the effectiveness of structured volunteering in Supported Employment and gathering feedback for improving the approach and resources developed.",
+    "bullet3": "Disseminate and valorize the project's resources through multiplier events in each partner country and the creation of a promotional video for social media."
+  },
+  "targetGroups": {
+    "title": "Target Groups",
+    "paragraph1": "The VOICE project promotes the inclusion of people with disabilities or impairments in the labor market through structured volunteering in the context of Supported Employment. To ensure the success of this approach, it involves different target groups:",
+    "bullet1": "People with disabilities or impairments – The main beneficiaries of the project. VOICE aims to improve the support provided to this audience by strengthening the capacity of Supported Employment professionals to integrate structured volunteering as a strategy for professional inclusion. By promoting this approach, the project will contribute to skill development, confidence building, and improving the employability prospects of people with disabilities or impairments.",
+    "bullet2": "Supported Employment Professionals – Includes supported employment technicians, vocational counselors, job placement technicians, and other professionals who provide direct support to people with disabilities or impairments. They play an essential role in the professional integration of this audience and will be empowered to integrate structured volunteering into the Supported Employment model, strengthening their intervention and facilitating the transition of beneficiaries to the labor market.",
+    "bullet3": "Education and Vocational Training Entities (EFP) – Responsible for the training and capacity building of Supported Employment technicians, these entities can integrate the results of the VOICE project to enhance the quality of their programs. The project will provide innovative resources that promote structured volunteering as an essential tool for skill development and professional inclusion within Supported Employment. This approach addresses a gap in current training models.",
+    "bullet4": "Employers and community organizations – Will be involved in the project to promote inclusive volunteering opportunities and adopt Supported Employment practices, contributing to reducing barriers and fostering diversity in workplaces. With this integrated approach, the VOICE project strengthens the employability of people with disabilities or impairments, promoting a more accessible and equitable society."
   },
   "activities": {
     "title": "Activities",
-    "description": "Our program transforms traditional employment support by recognizing that lived experience creates uniquely qualified mentors.",
-    "mainText": "VOICE PROVIDES TRAINING AND MENTORING ACTIVITIES TO SUPPORT TARGET GROUPS IN THEIR PROFESSIONAL DEVELOPMENT AND CAREER ADVANCEMENT. OICE PROVIDES TRAINING AND MENTORING ACTIVITIES TO SUPPORT TARGET GROUPS IN THEIR PROFESSIONAL DEVELOPMENT AND CAREER ADVANCEMENT. OICE PROVIDES TRAINING AND MENTORING ACTIVITIES TO SUPPORT TARGET GROUPS IN THEIR PROFESSIONAL DEVELOPMENT AND CAREER ADVANCEMENT. OICE PROVIDES TRAINING AND MENTORING ACTIVITIES TO SUPPORT TARGET GROUPS IN THEIR PROFESSIONAL DEVELOPMENT AND CAREER ADVANCEMENT."
+    "paragraph1": "The VOICE project is based on three main activities:",
+    "bullet1": "Development of the Resource Kit for Employment-Oriented Volunteering – Creation of tools and guidelines for Supported Employment professionals, enabling them to integrate volunteering as a strategy for skill development and professional integration.",
+    "bullet2": "Pilot Training for Supported Employment Professionals – Capacity building for 24 professionals, testing the approach and gathering feedback to optimize the model and resources developed.",
+    "bullet3": "Dissemination and Exploitation of Results – Organization of multiplier events in Portugal and Romania and production of a promotional video to raise awareness among professionals, employers, and communities about the potential of structured volunteering in professional inclusion."
   },
-  "outcomes": {
-    "title": "Outcomes",
-    "description": "Since its inception, VOICE has demonstrated impressive outcomes in job placement rates, satisfaction, and retention.",
-    "mainText": "CREATES OPPORTUNITIES FOR PROFESSIONAL GROWTH AND DEVELOPMENT, ENABLING INDIVIDUALS TO ACHIEVE THEIR CAREER GOALS AND REACH THEIR FULL POTENTIAL."
+  "results": {
+    "title": "Results",
+    "content": {
+      "paragraph1": "The VOICE project generates concrete impact through the development of strategic resources and dissemination actions that drive the professional inclusion of people with disabilities or impairments.",
+      "subTitle": "Tangible Results",
+      "bullet1": "Brochure – Informative document about the project, its objectives, and main results.",
+      "bullet2": "Website – Digital platform that centralizes information, resources, and project updates.",
+      "bullet3": "Resource Kit for Employment-Oriented Volunteering – Tools and guidelines for Supported Employment professionals, promoting the structured integration of volunteering into employability.",
+      "bullet4": "Pilot Training Sessions – Capacity building for 24 professionals in the implementation of the project's methodology.",
+      "bullet5": "Pilot Activity Report – Detailed evaluation of the training, challenges, and best practices identified.",
+      "bullet6": "Promotional Video – Production of a video to showcase the project's impact, highlighting the role of structured volunteering in professional inclusion.",
+      "bullet7": "Social Media Campaign – Digital communication strategy to promote the promotional video, expanding the project's reach.",
+      "bullet8": "Multiplier Events – Two events, one in Portugal and another in Romania, to present the project's results and encourage the adoption of structured volunteering as a tool for professional inclusion within the Supported Employment model.",
+      "subTitle2": "Expected Impact",
+      "bullet9": "Greater access to structured volunteering for people with disabilities or impairments, promoting their active participation in society and the labor market.",
+      "bullet10": "Strengthening employability and professional skills through practical experiences aligned with market demands.",
+      "bullet11": "Facilitating the transition to paid employment, promoting sustainable career paths.",
+      "bullet12": "Empowering Supported Employment professionals, driving innovative and effective methodologies.",
+      "bullet13": "Greater involvement of employers and communities, encouraging more inclusive recruitment practices."
+    }
   },
   "partners": {
     "title": "Partners",
-    "content": {
-      "paragraph1": "At its core, VOICE transforms traditional employment support models by recognizing that lived experience creates uniquely qualified mentors. Participants with disabilities undergo comprehensive training to become employment specialists, learning to provide personalized career guidance, workplace accommodation strategies, and ongoing support to fellow disabled job seekers.",
-      "paragraph2": "The program follows a structured pathway: first identifying candidates with strong communication skills and employment experience, then providing specialized training in career coaching, disability legislation, workplace assessment, and advocacy techniques. Graduates of the program become certified employment coaches who work directly with disabled job seekers to identify strengths, overcome barriers, and navigate the employment landscape.",
-      "paragraph3": "What makes VOICE particularly effective is its peer-to-peer approach. Coach-client relationships are built on shared understanding and authentic empathy. This creates safe spaces where job seekers can discuss workplace challenges openly, develop confidence, and benefit from practical solutions that have worked for others with similar disabilities.",
-      "paragraph4": "The project has established partnerships with employers across various sectors, creating pathways to meaningful employment while simultaneously educating businesses about inclusive practices. This dual focus creates sustainable change in workplace cultures while opening doors for individual participants.",
-      "paragraph5": "Since its inception, VOICE has demonstrated impressive outcomes: higher job placement rates, greater job satisfaction, and longer employment retention compared to traditional support services. For the coaches themselves, the program offers meaningful employment and professional development, creating a virtuous cycle of empowerment and opportunity.",
-      "paragraph6": "The VOICE Project stands as a testament to the EU's commitment to inclusive employment practices and demonstrates how lived experience, when properly channeled, can become a powerful catalyst for social and economic change."
-    }
+    "consultis": "Consultis is an organization founded in 2005, based in Vila Nova de Gaia, Portugal, specializing in business consulting, innovation, and supported employment. An active member of the Portuguese Association of Supported Employment, it manages a resource center in Supported Employment in Porto, where it provides support to companies, professionals, and job seekers, particularly disadvantaged groups in the labor market, such as people with disabilities or impairments, youth at risk of exclusion, migrants, and long-term unemployed. In partnership with companies, training entities, educational institutions, social sector organizations, and public entities, Consultis develops solutions tailored to the needs of the labor market, promoting effective strategies for professional and social inclusion. Through consulting, training, and supported employment services, it supports the implementation of more inclusive and sustainable practices, ensuring continuous support for employers and professionals in the labor integration process. Learn more at ",
+    "consultisLink": "https://www.consultis.pt",
+    "pistaMágica": "PISTA MÁGICA is the first and only Volunteering School in Portugal, founded in 2008. It operates in volunteering training, creating and implementing programs for organizations, and developing social action projects based on inclusive volunteering. Its mission is to make volunteering accessible and useful to everyone through innovation, empowering volunteers and organizations for more meaningful and sustainable social engagement. Recently, it has expanded its activities to advocacy, influencing public policies to strengthen volunteering as a solution to social challenges. Learn more at ",
+    "pistaMágicaLink": "https://www.pista-mágica.pt",
+    "hao": "Health Action Overseas Romania (HAO) is a non-governmental organization active in Romania since 1991, specializing in providing community social services for children and young people with disabilities in Constanța, Galați, and Bucharest. Initially focused on supporting children with severe disabilities in orphanages, it expanded its intervention to educational and therapeutic programs, supported residences, community development, rights advocacy, and family support. HAO provides Supported Employment services for young adults with disabilities and operates in the field of education and vocational training (VET), developing capacity-building programs that promote social, civic, and professional skills. Its training offer includes the qualification of professionals involved in the socio-professional inclusion of people with disabilities, ensuring the application of effective and person-centered methodologies. Based on the Social Model of Disability, it promotes capacity for independent living and professional integration, ensuring sustainable inclusion in the labor market. Learn more at ",
+    "haoLink": "https://www.hao.org.ro"
+  },
+  "news": {
+    "title": "News",
+    "subTitle": "VOICE Project kicks off activities with first transnational meeting in Porto",
+    "paragraph1": "The VOICE project – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713) held its first transnational meeting on March 6, 2025, in Porto, Portugal.",
+    "paragraph2": "Organized by Consultis, the coordinating entity, the event brought together partners from Portugal and Romania to structure the implementation of structured volunteering in the Supported Employment model.",
+    "paragraph3": "The meeting focused on analyzing the employability challenges of people with disabilities or impairments and the potential of volunteering for skill development, confidence building, and professional inclusion. The project's objectives, work plan, and strategies to ensure the effectiveness of the methodologies to be developed were also discussed.",
+    "paragraph4": "Co-financed by the Erasmus+ program, the VOICE project will run until June 30, 2026. Over 18 months, it will develop and test innovative resources to strengthen professional inclusion, empowering Supported Employment professionals to integrate structured volunteering into their practices.",
+    "paragraph5": "The meeting, held at the Supported Employment Resource Center of Consultis, marked the official start of activities and strengthened cooperation among partners. Follow us for more updates on the progress and impact of VOICE."
   },
   "footer": {
     "contact": "Contact Us",

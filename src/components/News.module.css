@@ -1,0 +1,168 @@
+@keyframes alternateColors {
+  0% {
+    color: var(--color-coral);
+  }
+  50% {
+    color: var(--color-yellow);
+  }
+  100% {
+    color: var(--color-coral);
+  }
+}
+
+.newsSection {
+  margin-top: 100px;
+  height:auto;
+  width: calc(100vw - 145px);
+  background: #f5c15116;
+  background: #e16e5d5e;
+  background: #f5c151;
+  background: #f4e5c6;
+ /*  background: #e16e5d19; */
+  position: relative;
+  margin-left: 85px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  padding: 100px ;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  
+}
+
+.label {
+  position: absolute;
+  left: -85px;
+  top: 45px;
+  width: 79px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-origin: left center;
+}
+
+.label span {
+  transform: rotate(-90deg);
+  color: var(--color-blue);
+  font-size: 25px;
+  font-weight: 700;
+  white-space: nowrap;
+  position: absolute;
+  left: -15px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+}
+
+.line {
+  position: absolute;
+  top: 130px;
+  left: -45px;
+  width: 1px;
+  border-left: 1px dashed var(--color-blue);
+  opacity: 0.5;
+  bottom: 0;
+}
+
+.newsContainer {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.subTitle {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: var(--color-blue);
+}
+
+.newsImage {
+  width: calc(100% - 50px); /* Full width minus 50px padding */
+  margin: 0 0 20px 0; /* Remove auto margin to align with text */
+  display: block;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 2;
+  color: var(--color-blue);
+} 
+
+/* Mobile styles */
+@media screen and (max-width: 768px) {
+  .newsSection {
+    width: calc(100vw - 60px); /* Increased space for label */
+    margin-left: 40px; /* Increased margin to accommodate label */
+    padding: 40px 20px;
+    margin-top: 60px;
+  }
+
+  .label {
+    left: -45px; /* Adjusted position */
+    top: 30px;
+    width: 60px; /* Ensure enough width for the label */
+  }
+
+  .label span {
+    font-size: 20px;
+    left: -20px;
+  }
+
+  .line {
+    left: -30px; /* Adjusted line position */
+    top: 100px;
+  }
+
+  .newsContainer {
+    width: 100%;
+  }
+
+  .subTitle {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+
+  .newsImage {
+    width: 100%;
+    margin: 0 0 15px 0;
+    max-height: none;
+  }
+
+  .text {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+}
+
+/* Small mobile styles */
+@media screen and (max-width: 480px) {
+  .newsSection {
+    width: calc(100vw - 50px); /* Adjusted to maintain label space */
+    margin-left: 35px; /* Keep consistent space for label */
+    padding: 30px 15px;
+  }
+
+  .label {
+    left: -40px; /* Slightly adjusted for smallest screens */
+    width: 55px;
+  }
+
+  .label span {
+    font-size: 18px;
+  }
+
+  .line {
+    left: -25px;
+  }
+
+  .subTitle {
+    font-size: 18px;
+  }
+
+  .text {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+}

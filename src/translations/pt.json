@@ -1,44 +1,86 @@
 {
   "nav": {
-    "projects": "Projetos",
+    "objectives": "Objetivos",
+    "targetGroups": "Grupos-Alvo",
     "activities": "Atividades",
-    "outcomes": "Resultados",
+    "results": "Resultados",
     "partners": "Parceiros",
-    "contact": "Contato",
-    "navigation": "Navegação"
+    "news": "Noticias",
+    "footer": "contactos"
   },
-  "projects": {
-    "title": "Projeto VOICE",
-    "description": "O Projeto VOICE é uma iniciativa inovadora da UE que capacita pessoas com deficiência para se tornarem coaches de emprego, criando um ciclo sustentável de apoio ao emprego inclusivo.",
-    "readMore": "Leia Mais",
-    "mainText": "É UMA PLATAFORMA INOVADORA QUE PERMITE QUE OS GRUPOS-ALVO PROSPEREM EM SUA SINGULARIDADE, APOIANDO SUA INDIVIDUALIDADE PARA FAZÊ-LOS IR MAIS LONGE EM SUAS CARREIRAS."
+  "objectives": {
+    "headline": "visa capacitar as pessoas com deficiência ou incapacidade, ampliando o seu papel enquanto participantes ativos na sociedade.",
+    "title": "Objetivos",
+    "paragraph1": "O projeto VOICE promove a integração do voluntariado estruturado no modelo de Emprego Apoiado em Portugal e na Roménia, criando novos percursos de empregabilidade para pessoas com deficiência ou incapacidade. O voluntariado é um meio eficaz para o desenvolvimento de competências, reforço da autoconfiança e promoção da inclusão e diversidade nos locais de trabalho e comunidades.Neste contexto, o projeto visa capacitar as pessoas com deficiência ou incapacidade, ampliando o seu papel enquanto participantes ativos na sociedade – tanto como voluntários como membros valorizados da força de trabalho.",
+    "subTitle": "Objetivos específicos:",
+    "bullet1": "Desenvolver um Kit de Recursos para o Voluntariado Orientado para o Emprego, fornecendo aos profissionais de Emprego Apoiado ferramentas para integrar o voluntariado no processo de integração profissional.",
+    "bullet2": "Implementar uma formação-piloto para 24 profissionais, avaliando a eficácia do voluntariado estruturado no Emprego Apoiado e recolhendo contributos para a melhoria da abordagem e dos recursos desenvolvidos.",
+    "bullet3": "Disseminar e valorizar os recursos do projeto, através de eventos multiplicadores em cada país parceiro e da criação de um vídeo promocional para as redes sociais."
+  },
+  "targetGroups": {
+    "headline": "O projeto VOICE promove a inclusão de pessoas com deficiência ou incapacidade no mercado de trabalho através do voluntariado estruturado no contexto do Emprego Apoiado.",
+    "title": "Grupos-Alvo",
+    "paragraph1": "O projeto VOICE promove a inclusão de pessoas com deficiência ou incapacidade no mercado de trabalho através do voluntariado estruturado no contexto do Emprego Apoiado. Para garantir o sucesso desta abordagem, envolve diferentes grupos-alvo:",
+    "bullet1": "Pessoas com deficiência ou incapacidade – Os principais beneficiários do projeto. O VOICE visa melhorar o apoio prestado a este público, reforçando a capacitação dos profissionais de Emprego Apoiado para integrar o voluntariado estruturado como estratégia de inclusão profissional. Ao promover esta abordagem, o projeto contribuirá para o desenvolvimento de competências, o reforço da autoconfiança e a melhoria das perspetivas de empregabilidade das pessoas com deficiência ou incapacidade.",
+    "bullet2": "Profissionais de Emprego Apoiado – Inclui técnicos de emprego apoiado, orientadores vocacionais, técnicos de inserção profissional e outros profissionais que prestam apoio direto a pessoas com deficiência ou incapacidade. Desempenham um papel essencial na integração profissional deste público e serão capacitados para integrar o voluntariado estruturado no modelo de Emprego Apoiado, fortalecendo a sua intervenção e facilitando a transição dos beneficiários para o mercado de trabalho.",
+    "bullet3": "Entidades de Educação e Formação Profissional (EFP) – Responsáveis pela formação e capacitação de técnicos de Emprego Apoiado, estas entidades poderão integrar os resultados do projeto VOICE para reforçar a qualidade dos seus programas. O projeto disponibilizará recursos inovadores que promovem o voluntariado estruturado como uma ferramenta essencial para o desenvolvimento de competências e a inclusão profissional, no âmbito do Emprego Apoiado. Esta abordagem responde a uma lacuna existente nos atuais modelos de formação.",
+    "bullet4": "Empregadores e organizações comunitárias – Serão envolvidos no projeto para promover oportunidades de voluntariado inclusivo e adotar práticas de Emprego Apoiado, contribuindo para a redução de barreiras e para o fomento da diversidade nos locais de trabalho.Com esta abordagem integrada, o projeto VOICE reforça a empregabilidade das pessoas com deficiência ou incapacidade, promovendo uma sociedade mais acessível e equitativa."
   },
   "activities": {
     "title": "Atividades",
-    "description": "Nosso programa transforma o suporte tradicional ao emprego, reconhecendo que a experiência vivida cria mentores exclusivamente qualificados.",
-    "mainText": "A VOICE FORNECE ATIVIDADES DE TREINAMENTO E MENTORIA PARA APOIAR GRUPOS-ALVO EM SEU DESENVOLVIMENTO PROFISSIONAL E AVANÇO NA CARREIRA. A VOICE FORNECE ATIVIDADES DE TREINAMENTO E MENTORIA PARA APOIAR GRUPOS-ALVO EM SEU DESENVOLVIMENTO PROFISSIONAL E AVANÇO NA CARREIRA. A VOICE FORNECE ATIVIDADES DE TREINAMENTO E MENTORIA PARA APOIAR GRUPOS-ALVO EM SEU DESENVOLVIMENTO PROFISSIONAL E AVANÇO NA CARREIRA. A VOICE FORNECE ATIVIDADES DE TREINAMENTO E MENTORIA PARA APOIAR GRUPOS-ALVO EM SEU DESENVOLVIMENTO PROFISSIONAL E AVANÇO NA CARREIRA."
+    "paragraph1": "O projeto VOICE assenta em três atividades principais:",
+    "bullet1": "Desenvolvimento do Kit de Recursos para o Voluntariado Orientado para o Emprego –Criação de ferramentas e diretrizes para profissionais de Emprego Apoiado, permitindo-lhes integrar o voluntariado como estratégia de desenvolvimento de competências e integração profissional.",
+    "bullet2": "Formação-Piloto para Profissionais de Emprego Apoiado – Capacitação de 24 profissionais, testando a abordagem e recolhendo contributos para otimizar o modelo e os recursos desenvolvidos.",
+    "bullet3": "Disseminação e Exploração de Resultados – Organização de eventos multiplicadores em Portugal e na Roménia e produção de um vídeo promocional para sensibilizar profissionais, empregadores e comunidades sobre o potencial do voluntariado estruturado na inclusão profissional. "
   },
-  "outcomes": {
+  "results": {
+    "headline": "... gera impacto concreto através do desenvolvimento de recursos estratégicos e ações de disseminação que impulsionam a inclusão profissional de pessoas com deficiência ou incapacidade.",
     "title": "Resultados",
-    "description": "Desde seu início, o VOICE demonstrou resultados impressionantes em taxas de colocação, satisfação e retenção de emprego.",
-    "mainText": "CRIA OPORTUNIDADES DE CRESCIMENTO E DESENVOLVIMENTO PROFISSIONAL, PERMITINDO QUE OS INDIVÍDUOS ALCANCEM SEUS OBJETIVOS DE CARREIRA E ATINJAM SEU PLENO POTENCIAL."
+      "paragraph1": "O projeto VOICE gera impacto concreto através do desenvolvimento de recursos estratégicos e ações de disseminação que impulsionam a inclusão profissional de pessoas com deficiência ou incapacidade.",
+      "subTitle": "Resultados Tangíveis",
+      "bullet1": "Brochura – Documento informativo sobre o projeto, os seus objetivos e os principais resultados.",
+      "bullet2": "Website – Plataforma digital que centraliza informações, recursos e atualizações do projeto.",
+      "bullet3": "Kit de Recursos para o Voluntariado Orientado para o Emprego – Ferramentas e diretrizes para profissionais de Emprego Apoiado, promovendo a integração estruturada do voluntariado na empregabilidade.",
+      "bullet4": "Sessões de Formação-Piloto – Capacitação de 24 profissionais na implementação da metodologia do projeto.",
+      "bullet5": "Relatório da Atividade-Piloto – Avaliação detalhada da formação, desafios e boas práticas identificadas.",
+      "bullet6": "Vídeo Promocional – Produção de um vídeo para divulgar o impacto do projeto, destacando o papel do voluntariado estruturado na inclusão profissional.",
+      "bullet7": "Campanha nas Redes Sociais – Estratégia de comunicação digital para divulgar o vídeo promocional, ampliando o alcance do projeto.",
+      "bullet8": "Eventos Multiplicadores – Dois eventos, um em Portugal e outro na Roménia, para apresentar os resultados do projeto e incentivar a adoção do voluntariado estruturado como ferramenta de inclusão profissional, no âmbito do modelo de Emprego Apoiado.",
+      "subTitle2": "Impacto Esperado",
+      "bullet9": " Maior acesso ao voluntariado estruturado para pessoas com deficiência ou incapacidade, promovendo a sua participação ativa na sociedade e no mercado de trabalho.",
+      "bullet10": "Reforço da empregabilidade e das competências profissionais através de experiências práticas alinhadas com as exigências do mercado.",
+      "bullet11": "Facilitação da transição para o emprego remunerado, promovendo percursos profissionais sustentáveis.",
+      "bullet12": "Capacitação dos profissionais de Emprego Apoiado, impulsionando metodologias inovadoras e eficazes.",
+      "bullet13": "Maior envolvimento de empregadores e comunidades, incentivando práticas de recrutamento mais inclusivas."
+    
   },
   "partners": {
     "title": "Parceiros",
-    "content": {
-      "paragraph1": "Em sua essência, o VOICE transforma os modelos tradicionais de apoio ao emprego, reconhecendo que a experiência vivida cria mentores exclusivamente qualificados. Participantes com deficiência passam por um treinamento abrangente para se tornarem especialistas em emprego, aprendendo a fornecer orientação profissional personalizada, estratégias de adaptação no local de trabalho e suporte contínuo a outros candidatos a emprego com deficiência.",
-      "paragraph2": "O programa segue um caminho estruturado: primeiro identificando candidatos com fortes habilidades de comunicação e experiência profissional, depois fornecendo treinamento especializado em coaching de carreira, legislação sobre deficiência, avaliação do local de trabalho e técnicas de advocacia. Os graduados do programa se tornam coaches de emprego certificados que trabalham diretamente com candidatos a emprego com deficiência para identificar pontos fortes, superar barreiras e navegar no panorama do emprego.",
-      "paragraph3": "O que torna o VOICE particularmente eficaz é sua abordagem entre pares. As relações coach-cliente são construídas com base na compreensão compartilhada e empatia autêntica. Isso cria espaços seguros onde os candidatos a emprego podem discutir abertamente os desafios do local de trabalho, desenvolver confiança e se beneficiar de soluções práticas que funcionaram para outros com deficiências semelhantes.",
-      "paragraph4": "O projeto estabeleceu parcerias com empregadores em vários setores, criando caminhos para empregos significativos e, simultaneamente, educando empresas sobre práticas inclusivas. Esse foco duplo cria mudanças sustentáveis nas culturas do local de trabalho, ao mesmo tempo em que abre portas para participantes individuais.",
-      "paragraph5": "Desde seu início, o VOICE demonstrou resultados impressionantes: maiores taxas de colocação no emprego, maior satisfação no trabalho e maior retenção no emprego em comparação com os serviços de suporte tradicionais. Para os próprios coaches, o programa oferece emprego significativo e desenvolvimento profissional, criando um ciclo virtuoso de empoderamento e oportunidade.",
-      "paragraph6": "O Projeto VOICE é um testemunho do compromisso da UE com práticas de emprego inclusivas e demonstra como a experiência vivida, quando adequadamente canalizada, pode se tornar um poderoso catalisador de mudança social e econômica."
-    }
+    
+      "consultis": "A Consultis é uma organização fundada em 2005, com sede em Vila Nova de Gaia, Portugal, especializada em consultoria empresarial, inovação e emprego apoiado. Membro ativo da Associação Portuguesa de Emprego Apoiado, gere um centro de recursos em Emprego Apoiado no Porto, onde presta apoio a empresas, profissionais e candidatos ao emprego, particularmente a grupos em situação de desvantagem no mercado de trabalho, como pessoas com deficiência ou incapacidade, jovens em risco de exclusão, migrantes e desempregados de longa duração.Em parceria com empresas, entidades de formação, instituições educativas, organizações do setor social e entidades públicas, a Consultis desenvolve soluções ajustadas às necessidades do mercado de trabalho, promovendo estratégias eficazes para a inclusão profissional e social. Através de serviços de consultoria, formação e emprego apoiado, apoia a implementação de práticas mais inclusivas e sustentáveis, garantindo o acompanhamento contínuo de empregadores e profissionais no processo de integração laboral. Saiba mais em ",
+      "consultisLink": "consultis.pt",
+      "pistaMágica": "A PISTA MÁGICA é a primeira e única Escola de Voluntariado em Portugal, fundada em 2008. Atua na formação de voluntariado, na criação e implementação de programas para organizações e no desenvolvimento de projetos de ação social baseados no voluntariado inclusivo.A sua missão é tornar o Voluntariado acessível e útil a toda a gente através da inovação, capacitando voluntários e organizações para um envolvimento social mais significativo e sustentável. Recentemente, expandiu a sua atuação para a advocacia, influenciando políticas públicas para fortalecer o voluntariado como solução para desafios sociais. Saiba mais em ",
+      "pistaMágicaLink": "pista-mágica.pt",
+      "hao": "Health Action Overseas Romania (HAO) é uma organização não-governamental ativa na Roménia desde 1991, especializada na prestação de serviços sociais comunitários para crianças e jovens com deficiência em Constanța, Galați e Bucareste. Inicialmente focada no apoio a crianças com deficiências graves em orfanatos, alargou a sua intervenção a programas educativos e terapêuticos, residências apoiadas, desenvolvimento comunitário, defesa de direitos e apoio familiar.A HAO disponibiliza serviços de Emprego Apoiado para jovens adultos com deficiência e atua na área da educação e formação profissional (VET), desenvolvendo programas de capacitação que promovem competências sociais, cívicas e profissionais. A sua oferta formativa inclui a qualificação de profissionais envolvidos na inclusão socioprofissional de pessoas com deficiência, assegurando a aplicação de metodologias eficazes e centradas na pessoa.Com base no Modelo Social da Deficiência, promove a capacitação para a vida independente e a integração profissional, assegurando uma inclusão sustentável no mercado de trabalho. Saiba mais em ",
+      "haoLink": "hao.org.ro"
+   
+  },
+  "news": {
+    "title": "Noticias",
+    
+      "subTitle": "Projeto VOICE inicia atividades com primeiro encontro transnacional no Porto",
+      "paragraph1": "O projeto VOICE – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713) realizou, a 6 de março de 2025, o seu primeiro encontro transnacional no Porto, Portugal.",
+      "paragraph2": "Organizado pela Consultis, entidade coordenadora, o evento reuniu os parceiros de Portugal e Roménia para estruturar a implementação do voluntariado estruturado no modelo de Emprego Apoiado.",
+      "paragraph3": "A reunião centrou-se na análise dos desafios da empregabilidade de pessoas com deficiência ou incapacidade e no potencial do voluntariado para o desenvolvimento de competências, reforço da autoconfiança e inclusão profissional. Foram também discutidos os objetivos do projeto, o plano de trabalho e as estratégias para garantir a eficácia das metodologias a desenvolver.",
+      "paragraph4": "Cofinanciado pelo programa Erasmus+, o projeto VOICE decorrerá até 30 de junho de 2026. Durante 18 meses, irá desenvolver e testar recursos inovadores para reforçar a inclusão profissional, capacitando profissionais de Emprego Apoiado para integrarem o voluntariado estruturado nas suas práticas.",
+      "paragraph5": "O encontro, realizado no Centro de Recursos em Emprego Apoiado da Consultis, marcou o arranque oficial das atividades e reforçou a cooperação entre os parceiros. Acompanhe-nos para mais atualizações sobre o progresso e impacto do VOICE."
+    
   },
   "footer": {
-    "contact": "Contate-nos",
-    "email": "E-mail",
+    "contact": "Contacte-nos",
+    "email": "Email",
     "phone": "Telefone",
-    "address": "Endereço",
+    "address": "Morada",
     "followUs": "Siga-nos",
     "rights": "Todos os direitos reservados."
   }
