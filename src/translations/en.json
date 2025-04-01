@@ -1,5 +1,6 @@
 {
   "nav": {
+    "home": "Home",
     "objectives": "Objectives",
     "targetGroups": "Target Groups",
     "activities": "Activities",
@@ -78,4 +79,4 @@
     "followUs": "Follow Us",
     "rights": "All rights reserved."
   }
-} 
+}

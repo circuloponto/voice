@@ -4,13 +4,16 @@
   }
   
   .resultsSection {
-    margin-top: 100px;
+    margin-top: 200px;
     height:auto;
     width: calc(100vw - 145px);
     background: #f5c15116;
     background: #e16e5dc0;
+    background: #759f63;
    /*  background: #e16e5d19; */
    background-color: var(--color-coral);
+   background: #759f63;
+   background: #f4e5c6;
     position: relative;
     margin-left: 85px;
     background-size: cover;
@@ -24,7 +27,7 @@
      
   .text {
     color: var(--color-white);
-   /*  color: #466290; */
+    color: #466290;
     text-align: justify;
     font-size: 20px;
     font-weight: 600;
@@ -41,16 +44,17 @@
   }
   
   .bulletList li::marker {
-    color: var(--color-blue); /* Use your coral color variable */
+    color: var(--color-coral); /* Use your coral color variable */
   }
   .title{
     color: var(--color-blue);
     margin: 0 0 40px 0;
   }
   .subTitle{
-    color: var(--color-blue);
+    color: var(--color-coral);
     margin: 40px 0 40px 0;
     align-self: flex-start;
+    font-weight: bold;
   }
   
   @keyframes alternateColors {
@@ -67,8 +71,8 @@
 
   .label {
     position: absolute;
-    left: -105px;
-    top: 57px;
+    left: -107px;
+    top: 65px;
     width: 79px;
     height: 30px;
     display: flex;
@@ -94,7 +98,7 @@
      } */
     .line {
       position: absolute;
-      top: 160px;
+      top: 175px;
       left: -45px;
       width: 1px;
       border-left: 0.13rem dotted var(--color-blue);

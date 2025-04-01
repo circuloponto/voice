@@ -1,12 +1,26 @@
 {
   "nav": {
+    "home": "Home",
     "objectives": "Objetivos",
     "targetGroups": "Grupos-Alvo",
     "activities": "Atividades",
     "results": "Resultados",
     "partners": "Parceiros",
-    "news": "Noticias",
+    "news": "Notícias",
+    "contacts": "Contactos",
     "footer": "contactos"
+  },
+  "sidebar":{
+    "title": " VOICE – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713)",
+    "consultis": {
+        "title": "Consultis",
+        "email": "crea@consultis.pt",
+        "mobile": "+351 933261757",
+        "morada": "Rua Calouste Gulbenkian, nº52, 5º andar, E7, 4050-144 Porto, Portugal"
+      },
+    "disclaimer": {
+      "text": "Financiado pela União Europeia. Os pontos de vista e as opiniões expressas são as do(s) autor(es) e não refletem necessariamente a posição da União Europeia ou da Agência Nacional para a Gestão do Programa Erasmus+ Educação e Formação. Nem a União Europeia nem a Agência Nacional podem ser tidos como responsáveis por essas opiniões."
+    }
   },
   "objectives": {
     "headline": "visa capacitar as pessoas com deficiência ou incapacidade, ampliando o seu papel enquanto participantes ativos na sociedade.",
@@ -61,12 +75,12 @@
       "consultisLink": "consultis.pt",
       "pistaMágica": "A PISTA MÁGICA é a primeira e única Escola de Voluntariado em Portugal, fundada em 2008. Atua na formação de voluntariado, na criação e implementação de programas para organizações e no desenvolvimento de projetos de ação social baseados no voluntariado inclusivo.A sua missão é tornar o Voluntariado acessível e útil a toda a gente através da inovação, capacitando voluntários e organizações para um envolvimento social mais significativo e sustentável. Recentemente, expandiu a sua atuação para a advocacia, influenciando políticas públicas para fortalecer o voluntariado como solução para desafios sociais. Saiba mais em ",
       "pistaMágicaLink": "pista-mágica.pt",
-      "hao": "Health Action Overseas Romania (HAO) é uma organização não-governamental ativa na Roménia desde 1991, especializada na prestação de serviços sociais comunitários para crianças e jovens com deficiência em Constanța, Galați e Bucareste. Inicialmente focada no apoio a crianças com deficiências graves em orfanatos, alargou a sua intervenção a programas educativos e terapêuticos, residências apoiadas, desenvolvimento comunitário, defesa de direitos e apoio familiar.A HAO disponibiliza serviços de Emprego Apoiado para jovens adultos com deficiência e atua na área da educação e formação profissional (VET), desenvolvendo programas de capacitação que promovem competências sociais, cívicas e profissionais. A sua oferta formativa inclui a qualificação de profissionais envolvidos na inclusão socioprofissional de pessoas com deficiência, assegurando a aplicação de metodologias eficazes e centradas na pessoa.Com base no Modelo Social da Deficiência, promove a capacitação para a vida independente e a integração profissional, assegurando uma inclusão sustentável no mercado de trabalho. Saiba mais em ",
+      "hao": "A Health Action Overseas Romania (HAO) é uma organização não-governamental ativa na Roménia desde 1991, especializada na prestação de serviços sociais comunitários para crianças e jovens com deficiência em Constanța, Galați e Bucareste. Inicialmente focada no apoio a crianças com deficiências graves em orfanatos, alargou a sua intervenção a programas educativos e terapêuticos, residências apoiadas, desenvolvimento comunitário, defesa de direitos e apoio familiar.A HAO disponibiliza serviços de Emprego Apoiado para jovens adultos com deficiência e atua na área da educação e formação profissional (VET), desenvolvendo programas de capacitação que promovem competências sociais, cívicas e profissionais. A sua oferta formativa inclui a qualificação de profissionais envolvidos na inclusão socioprofissional de pessoas com deficiência, assegurando a aplicação de metodologias eficazes e centradas na pessoa.Com base no Modelo Social da Deficiência, promove a capacitação para a vida independente e a integração profissional, assegurando uma inclusão sustentável no mercado de trabalho. Saiba mais em ",
       "haoLink": "hao.org.ro"
    
   },
   "news": {
-    "title": "Noticias",
+    "title": "Notícias",
     
       "subTitle": "Projeto VOICE inicia atividades com primeiro encontro transnacional no Porto",
       "paragraph1": "O projeto VOICE – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713) realizou, a 6 de março de 2025, o seu primeiro encontro transnacional no Porto, Portugal.",

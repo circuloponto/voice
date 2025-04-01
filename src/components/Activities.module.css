@@ -4,13 +4,13 @@
 }
 
 .activitiesSection {
-  margin-top: 100px;
+  margin-top: 200px;
   height:auto;
   width: calc(100vw - 145px);
   background: #f5c15116;
   background: #e16e5dc0;
  /*  background: #e16e5d19; */
- background-color: var(--color-coral);
+ background-color: #8eac82;
   position: relative;
   margin-left: 85px;
   background-size: cover;
@@ -67,8 +67,8 @@
 
 .label {
   position: absolute;
-  left: -100px;
-  top: 52px;
+  left: -105px;
+  top: 62px;
   width: 79px;
   height: 30px;
   display: flex;
@@ -79,7 +79,7 @@
 
 .label span {
   transform: rotate(-90deg);
-  color: var(--color-blue);
+  color: var(--color-green-dark);
   font-size: 25px;
   font-weight: 700;
   white-space: nowrap;
@@ -92,10 +92,10 @@
 
   .line {
     position: absolute;
-    top: 160px;
+    top: 165px;
     left: -45px;
     width: 1px;
-    border-left: 0.13rem dotted var(--color-blue);
+    border-left: 0.13rem dotted var(--color-green-dark);
     opacity: 0.5;
     bottom: 0;
     border-right: none;

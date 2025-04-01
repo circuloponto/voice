@@ -11,9 +11,9 @@ const Partners = () => {
 
     textElements.forEach((element) => {
       partnerNames.forEach((name) => {
-        const regex = new RegExp(`(${name})`, 'g');
+        const regex = new RegExp(`A (${name})(?![^<]*>|[^<>]*</a>)`, '');
         console.log(`Checking for: ${name} in element:`, element.innerHTML);
-        element.innerHTML = element.innerHTML.replace(regex, `<span class="${styles.partnerName}">$1</span>`);
+        element.innerHTML = element.innerHTML.replace(regex, `A <span class="${styles.partnerName}">$1</span>`);
       });
     });
   }, []);
@@ -26,15 +26,17 @@ const Partners = () => {
       <div className={styles.line}></div>
       <div className={styles.tint}></div>
       <div className={styles.partnersContainer}>
-      
         <div className={styles.text}>
-          <p> {t('partners.consultis')} <a className={styles.link} href={t('partners.consultisLink')} target="_blank" rel="noopener noreferrer">{t('partners.consultisLink')}</a></p>
-          <p> {t('partners.pistaMágica')} <a className={styles.link} href={t('partners.pistaMágicaLink')} target="_blank" rel="noopener noreferrer">{t('partners.pistaMágicaLink')}</a></p>
-          <p> {t('partners.hao')} <a className={styles.link} href={t('partners.haoLink')} target="_blank" rel="noopener noreferrer">{t('partners.haoLink')}</a></p>
+          <p>
+            {t('partners.consultis')} <a className={styles.link} href="www.consultis.pt" target="_blank" rel="noopener noreferrer">{t('partners.consultisLink')}</a>
+          </p>
+
+          <p>{t('partners.pistaMágica')} <a className={styles.link} href="www.pista-mágica.pt" target="_blank" rel="noopener noreferrer">{t('partners.pistaMágicaLink')}</a></p>
+          <p>{t('partners.hao')} <a className={styles.link} href="www.hao.org.ro" target="_blank" rel="noopener noreferrer">{t('partners.haoLink')}</a></p>
         </div>
       </div>
     </section>
   );
 };
 
-export default Partners; 
+export default Partners;

@@ -52,7 +52,7 @@
 
 .headline {
   font-size: clamp(40px, 4vw, 60px);
-  font-weight: 600;
+  font-weight: 400;
   color: var(--color-coral);
   margin: 0;
   z-index: 10;
@@ -66,7 +66,7 @@
   width: clamp(200px, 30vw, 500px); /* Control width with clamp */
   text-align: justify;
   font-size: clamp(14px, 1.2vw, 20px);
-  font-weight: 600;
+  font-weight: 200;
   z-index: 10;
   flex-shrink: 0;  /* Prevent shrinking */
 }

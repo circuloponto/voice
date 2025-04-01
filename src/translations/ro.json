@@ -1,12 +1,13 @@
 {
   "nav": {
+    "home": "Acasă",
     "objectives": "Obiective",
     "targetGroups": "Grupuri Țintă",
     "activities": "Activități",
     "results": "Rezultate",
     "partners": "Parteneri",
     "news": "Știri",
-    "navigation": "Separatoare"
+    "navigation": "Navigare"
   },
   "objectives": {
     "title": "Obiective",

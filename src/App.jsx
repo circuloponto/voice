@@ -1,21 +1,18 @@
 import React from 'react';
 import { useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Lenis from '@studio-freight/lenis';
 import './i18n';
 import './App.css';
 import Navbar from './components/Navbar';
-import Objectives from './components/Objectives';
-import Grid from './components/Grid';
-import Activities from './components/Activities';
-import Partners from './components/Partners';
 import Footer from './components/Footer';
-import HeadlineObjectives from './components/HeadlineObjectives';
-import HeadlineTargetGroups from './components/HeadlineTargetGroups';
-import TargetGroups from './components/TargetGroups';
-import HeadlineResults from './components/HeadlineResults';
-import Results from './components/Results';
-import News from './components/News';
-import Disclaimer from './components/Disclaimer';
+import Home from './pages/Home';
+import ObjectivesPage from './pages/ObjectivesPage';
+import TargetGroupsPage from './pages/TargetGroupsPage';
+import ActivitiesPage from './pages/ActivitiesPage';
+import ResultsPage from './pages/ResultsPage';
+import PartnersPage from './pages/PartnersPage';
+import NewsPage from './pages/NewsPage';
 
 function App() {
   useEffect(() => {
@@ -50,25 +47,23 @@ function App() {
   }, []);
 
   return (
-    <div className="app">
-     {/*  <Disclaimer /> */}
-      <Grid />
-      <Navbar />
-      <HeadlineObjectives />
-      <Objectives />
-      <HeadlineTargetGroups />
-      <TargetGroups />
-
-     {/*  <HeadlineTargetGroups /> */}
-      <Activities />
-      <HeadlineResults />
-      <Results />
-      <Partners />
-      <News />
-      <Footer />
-     
-     
-    </div>
+    <Router>
+      <div className="app">
+        <Navbar />
+        <main>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/objectives" element={<ObjectivesPage />} />
+            <Route path="/target-groups" element={<TargetGroupsPage />} />
+            <Route path="/activities" element={<ActivitiesPage />} />
+            <Route path="/results" element={<ResultsPage />} />
+            <Route path="/partners" element={<PartnersPage />} />
+            <Route path="/news" element={<NewsPage />} />
+          </Routes>
+        </main>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 

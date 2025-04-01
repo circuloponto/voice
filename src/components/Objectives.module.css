@@ -4,7 +4,7 @@
   }
   
   .objectivesSection {
-    margin-top: 100px;
+    margin-top: 200px;
     height:auto;
     width: calc(100vw - 145px);
     background: #f5c15116;
@@ -66,8 +66,8 @@
 
   .label {
     position: absolute;
-    left: -93px;
-    top: 45px;
+    left: -97px;
+    top: 55px;
     width: 79px;
     height: 30px;
     display: flex;

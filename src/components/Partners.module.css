@@ -4,7 +4,7 @@
 }
 
 .partnersSection {
-  margin-top: 100px;
+  margin-top: 200px;
   height: auto;
   width: calc(100vw - 145px);
   background: #f5c15116;
@@ -60,7 +60,7 @@
 .label {
   position: absolute;
   left: -95px;
-  top: 45px;
+  top: 55px;
   width: 79px;
   height: 30px;
   display: flex;
@@ -84,7 +84,7 @@
 
 .line {
   position: absolute;
-  top: 130px;
+  top: 160px;
   left: -45px;
   width: 1px;
   border-left: 1px dashed var(--color-blue);
