@@ -21,8 +21,9 @@
   },
   "objectives": {
     "title": "Objectives",
-    "paragraph1": "The VOICE project promotes the integration of structured volunteering into the Supported Employment model in Portugal and Romania, creating new employment pathways for disabled individuals. Volunteering is an effective tool for skills development, confidence-building, and for fostering inclusion and diversity in workplaces and communities.",
-    "paragraph2": "In this context, the project aims to empower disabled individuals by strengthening their role as active participants in society – both as volunteers and as valued members of the workforce.",
+    "paragraph1": "The VOICE project promotes the integration of structured volunteering into the Supported Employment model in Portugal and Romania, creating new employment pathways for disabled individuals.",
+    "paragraph2": "Volunteering is an effective tool for skills development, confidence-building, and for fostering inclusion and diversity in workplaces and communities.",
+    "paragraph3": "In this context, the project aims to empower disabled individuals by strengthening their role as active participants in society – both as volunteers and as valued members of the workforce.",
     "subTitle": "Specific Objectives:",
     "bullet1": "Develop a Toolkit for Employment-Oriented Volunteering, providing Supported Employment professionals with tools to integrate structured volunteering into the Supported Employment process.",
     "bullet2": "Implement a pilot training for 24 professionals, assessing the effectiveness of structured volunteering in Supported Employment and collecting input to improve the approach and resources.",
@@ -30,18 +31,20 @@
   },
   "targetGroups": {
     "title": "Target Groups",
-    "paragraph1": "The VOICE project promotes the inclusion of disabled individuals in the labour market through structured volunteering in the context of Supported Employment. To ensure the success of this approach, several key target groups are involved:",
+    "paragraph1": "The VOICE project promotes the inclusion of disabled individuals in the labor market through structured volunteering in the context of Supported Employment. To ensure the success of this approach, several key target groups are involved:",
     "bullet1": "Disabled individuals: The main beneficiaries of the project. VOICE aims to improve the support provided to this group by equipping Supported Employment professionals to integrate structured volunteering as a strategy for professional inclusion. This approach will foster skills development, self-confidence, and enhance employability prospects.",
     "bullet2": "Supported Employment professionals: Including job coaches, vocational counsellors, social workers, and employment consultants. These professionals play a central role in the Supported Employment process and will be trained to integrate structured volunteering into their practices, strengthening their intervention and supporting sustainable transitions into employment.",
     "bullet3": "Vocational Education and Training (VET) providers: Responsible for the education and upskilling of Supported Employment professionals. The VOICE project will provide innovative training content and tools to be integrated into their curricula, filling a gap in existing programmes regarding volunteering in Supported Employment.",
-    "bullet4": "Employers and community organisations: Engaged to provide inclusive volunteering opportunities and adopt Supported Employment practices. Their involvement is key to reducing barriers and fostering diversity in workplaces."
+    "bullet4": "Employers and community organisations: Engaged to provide inclusive volunteering opportunities and adopt Supported Employment practices. Their involvement is key to reducing barriers and fostering diversity in workplaces.",
+    "paragraph2": "Through this integrated approach, VOICE enhances employability for disabled individuals and promotes a more inclusive and equitable society."
   },
   "activities": {
     "title": "Activities",
     "paragraph1": "The VOICE project is based on three main activities:",
-    "bullet1": "Development of the Toolkit for Employment-Oriented Volunteering: Creation of tools and guidelines for Supported Employment professionals to integrate volunteering as a strategy for skill development and labour market inclusion.",
+    "bullet1": "Development of the Toolkit for Employment-Oriented Volunteering: Creation of tools and guidelines for Supported Employment professionals to integrate volunteering as a strategy for skill development and labor market inclusion.",
     "bullet2": "Pilot Training for Supported Employment Professionals: Training of 24 professionals in Portugal and Romania, testing the approach and gathering feedback to refine the methodology and resources.",
-    "bullet3": "Dissemination and Exploitation of Results: Organisation of multiplier events in Portugal and Romania and the production of a project video spot to raise awareness among professionals, employers, and communities about the potential of structured volunteering in professional inclusion."
+    "bullet3": "Dissemination and Exploitation of Results: Organisation of multiplier events in Portugal and Romania and the production of a project video spot to raise awareness among professionals, employers, and communities about the potential of structured volunteering in professional inclusion.",
+    "paragraph2": "These activities aim to build the capacity of professionals, strengthen the employability of disabled individuals, and promote structured volunteering as a tool for labor market inclusion within the Supported Employment model."
   },
   "results": {
     "title": "Results",
@@ -56,8 +59,8 @@
     "bullet7": "Social media campaign: Strategy to disseminate the video and expand the project's reach.",
     "bullet8": "Multiplier Events: One event in Portugal and one in Romania to present project outcomes and promote the use of structured volunteering within Supported Employment.",
     "subTitle2": "Expected Impact:",
-    "bullet9": "Greater access to structured volunteering opportunities for disabled individuals, promoting active participation in society and the labour market.",
-    "bullet10": "Strengthened employability and professional skills through practical experience aligned with labour market needs.",
+    "bullet9": "Greater access to structured volunteering opportunities for disabled individuals, promoting active participation in society and the labor market.",
+    "bullet10": "Strengthened employability and professional skills through practical experience aligned with labor market needs.",
     "bullet11": "Facilitated transition into paid employment, promoting sustainable professional pathways.",
     "bullet12": "Improved capacity of Supported Employment professionals through innovative tools and training.",
     "bullet13": "Stronger engagement from employers and community organisations, encouraging more inclusive recruitment practices."
@@ -66,8 +69,8 @@
     "title": "Partners",
     "consultis": {
       "title": "Consultis",
-      "paragraph1": "Consultis is a Portuguese organisation established in 2005 and headquartered in Vila Nova de Gaia, specialising in business consultancy, innovation, and Supported Employment. As an active member of the Portuguese Association of Supported Employment, it operates a Resource Centre in Porto, where it supports employers, professionals, and jobseekers — with a particular focus on groups facing disadvantage in the labour market, including disabled individuals, young people at risk of exclusion, migrants, and the long-term unemployed.",
-      "paragraph2": "Working in partnership with businesses, training entities, educational institutions, social organisations, and public bodies, Consultis develops tailored solutions that respond to labour market demands, promoting effective strategies for professional and social inclusion. Through its consultancy services, training programmes, and Supported Employment initiatives, the organisation supports the implementation of inclusive and sustainable employment practices, ensuring continuous support for both employers and professionals throughout the integration process.",
+      "paragraph1": "Consultis is a Portuguese organisation established in 2005 and headquartered in Vila Nova de Gaia, specialising in business consultancy, innovation, and Supported Employment. As an active member of the Portuguese Association of Supported Employment, it operates a Resource Centre in Porto, where it supports employers, professionals, and jobseekers — with a particular focus on groups facing disadvantage in the labor market, including disabled individuals, young people at risk of exclusion, migrants, and the long-term unemployed.",
+      "paragraph2": "Working in partnership with businesses, training entities, educational institutions, social organisations, and public bodies, Consultis develops tailored solutions that respond to labor market demands, promoting effective strategies for professional and social inclusion. Through its consultancy services, training programmes, and Supported Employment initiatives, the organisation supports the implementation of inclusive and sustainable employment practices, ensuring continuous support for both employers and professionals throughout the integration process.",
       "website": "Learn more at www.consultis.pt"
     },
     "pistamagica": {
@@ -80,7 +83,7 @@
       "title": "Health Action Overseas Romania (HAO)",
       "paragraph1": "Health Action Overseas Romania (HAO) is a non-governmental organisation active in Romania since 1991, specialising in community-based social services for children and young people with disabilities in Constanța, Galați, and Bucharest. Initially focused on supporting children with severe disabilities in residential institutions, HAO has since expanded its work to include educational and therapeutic programmes, supported living arrangements, community development, advocacy, and family support.",
       "paragraph2": "HAO provides Supported Employment services for young adults with disabilities and is active in the field of Vocational Education and Training (VET), developing capacity-building programmes that promote social, civic, and professional skills. Its training offer includes the qualification of professionals involved in the social and professional inclusion of disabled individuals, ensuring the application of effective, person-centred methodologies.",
-      "paragraph3": "Rooted in the Social Model of Disability, HAO promotes independent living and professional integration, supporting sustainable inclusion in the labour market.",
+      "paragraph3": "Rooted in the Social Model of Disability, HAO promotes independent living and professional integration, supporting sustainable inclusion in the labor market.",
       "website": "Learn more at www.hao.org.ro"
     }
   },
