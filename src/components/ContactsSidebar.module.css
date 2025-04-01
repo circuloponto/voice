@@ -18,13 +18,24 @@
   transition: right 0.3s ease;
   z-index: 1000;
   overflow-y: auto;
-  padding: 1rem;
+  padding: 1.25rem;
   display: flex;
   flex-direction: column;
 }
 
 .sidebar.open {
   right: 0;
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar {
+    width: 100%;
+    right: -100%;
+  }
+
+  .sidebar.open {
+    right: 0;
+  }
 }
 
 .closeButton {
