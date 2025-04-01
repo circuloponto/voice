@@ -163,6 +163,12 @@
   }
 }
 
+@media screen and (max-width: 770px) {
+  .resultsSection {
+    margin-top: 200px;
+  }
+}
+
 /* Small mobile styles */
 @media screen and (max-width: 480px) {
   .resultsSection {

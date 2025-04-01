@@ -161,6 +161,13 @@
     }
   }
 
+  /* Tablet styles */
+  @media screen and (max-width: 770px) {
+    .objectivesSection {
+      margin-top: 200px;
+    }
+  }
+
   /* Small mobile styles */
   @media screen and (max-width: 480px) {
     .objectivesSection {

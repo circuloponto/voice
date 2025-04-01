@@ -109,6 +109,12 @@
 } 
 
 /* Mobile styles */
+@media screen and (max-width: 770px) {
+  .partnersSection {
+    margin-top: 200px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .partnersSection {
     width: calc(100vw - 60px);

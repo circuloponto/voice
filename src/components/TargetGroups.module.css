@@ -199,6 +199,12 @@
   }
 }
 
+@media screen and (max-width: 770px) {
+  .targetGroupsSection {
+    margin-top: 200px;
+  }
+}
+
   @media (max-width: 1000px) {
     .objectivesSection {
       padding: 50px;

@@ -91,6 +91,12 @@
 } 
 
 /* Mobile styles */
+@media screen and (max-width: 770px) {
+  .newsSection {
+    margin-top: 200px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .newsSection {
     width: calc(100vw - 60px); /* Increased space for label */

@@ -157,6 +157,12 @@
   }
 }
 
+@media screen and (max-width: 770px) {
+  .activitiesSection {
+    margin-top: 200px;
+  }
+}
+
 /* Small mobile styles */
 @media screen and (max-width: 480px) {
   .activitiesSection {
