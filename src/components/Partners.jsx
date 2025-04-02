@@ -1,22 +1,33 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import styles from './Partners.module.css';
 
 const Partners = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const [content, setContent] = useState('');
 
   useEffect(() => {
-    const partnerNames = ['Consultis', 'PISTA MÁGICA', 'Health Action Overseas Romania \\(HAO\\)'];
-    const textElements = document.querySelectorAll(`.${styles.text} p`);
+    const consultisText = t('partners.consultis');
+    const pistaMagicaText = t('partners.pistaMágica');
+    const haoText = t('partners.hao');
 
-    textElements.forEach((element) => {
-      partnerNames.forEach((name) => {
-        const regex = new RegExp(`A (${name})(?![^<]*>|[^<>]*</a>)`, '');
-        console.log(`Checking for: ${name} in element:`, element.innerHTML);
-        element.innerHTML = element.innerHTML.replace(regex, `A <span class="${styles.partnerName}">$1</span>`);
-      });
-    });
-  }, []);
+    // Create the HTML with highlighting
+    const html = `
+      <p>
+        ${consultisText.replace(/(Consultis)/, `<span class="${styles.partnerName}">$1</span>`)}
+        <a class="${styles.link}" href="https://www.consultis.pt" target="_blank" rel="noopener noreferrer">${t('partners.consultisLink')}</a>
+      </p>
+      <p>
+        ${pistaMagicaText.replace(/(PISTA MÁGICA)/, `<span class="${styles.partnerName}">$1</span>`)}
+        <a class="${styles.link}" href="https://www.pista-magica.pt" target="_blank" rel="noopener noreferrer">${t('partners.pistaMágicaLink')}</a>
+      </p>
+      <p>
+        ${haoText.replace(/(Health Action Overseas Romania)/, `<span class="${styles.partnerName}">$1</span>`)}
+        <a class="${styles.link}" href="https://www.hao.org.ro" target="_blank" rel="noopener noreferrer">${t('partners.haoLink')}</a>
+      </p>
+    `;
+    setContent(html);
+  }, [t, i18n.language]);
 
   return (
     <section id="partners" className={styles.partnersSection}>
@@ -26,14 +37,10 @@ const Partners = () => {
       <div className={styles.line}></div>
       <div className={styles.tint}></div>
       <div className={styles.partnersContainer}>
-        <div className={styles.text}>
-          <p>
-            {t('partners.consultis')} <a className={styles.link} href="www.consultis.pt" target="_blank" rel="noopener noreferrer">{t('partners.consultisLink')}</a>
-          </p>
-
-          <p>{t('partners.pistaMágica')} <a className={styles.link} href="www.pista-mágica.pt" target="_blank" rel="noopener noreferrer">{t('partners.pistaMágicaLink')}</a></p>
-          <p>{t('partners.hao')} <a className={styles.link} href="www.hao.org.ro" target="_blank" rel="noopener noreferrer">{t('partners.haoLink')}</a></p>
-        </div>
+        <div 
+          className={styles.text}
+          dangerouslySetInnerHTML={{ __html: content }}
+        />
       </div>
     </section>
   );

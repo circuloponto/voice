@@ -68,8 +68,8 @@
 /* Default label position (English) */
 .label {
   position: absolute;
-  left: -105px;
-  top: 62px;
+  left: -95px;
+  top: 52px;
   width: 79px;
   height: 30px;
   display: flex;
@@ -93,12 +93,14 @@
 
 /* Portuguese specific adjustments */
 html[data-language='pt'] .label {
-  left: -110px;
+  left: -105px;
+  top: 60px;
 }
 
 /* Romanian specific adjustments */
 html[data-language='ro'] .label {
-  left: -107px;
+  left: -95px;
+  top: 50px;
 }
 
   .line {

@@ -7,74 +7,94 @@
     "results": "Rezultate",
     "partners": "Parteneri",
     "news": "Știri",
-    "navigation": "Navigare"
+    "contacts": "Contacte",
+    "footer": "contacte"
+  },
+  "sidebar": {
+    "title": "VOICE – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713)",
+    "consultis": {
+      "title": "Consultis",
+      "email": "crea@consultis.pt",
+      "mobile": "+351 933261757",
+      "morada": "Rua Calouste Gulbenkian, nº52, 5º andar, E7, 4050-144 Porto, Portugal"
+    },
+    "disclaimer": {
+      "text": "Finanțat de Uniunea Europeană. Cu toate acestea, punctele de vedere și opiniile exprimate aparțin exclusiv autorului (autorilor) și nu reflectă neapărat punctele de vedere și opiniile Uniunii Europene sau ale Agenției Naționale pentru Gestionarea Programului Erasmus+ Educație și Formare. Nici Uniunea Europeană și nici Agenția Națională nu pot fi considerate responsabile pentru acestea."
+    }
   },
   "objectives": {
-    "headline": "vizează capacitarea persoanelor cu dizabilități sau incapacități, extinzându-le rolul ca participanți activi în societate.",
+    "headline": "își propune să capaciteze persoanele cu dizabilități, extinzându-le rolul ca participanți activi în societate.",
     "title": "Obiective",
-    "paragraph1": "Proiectul VOICE promovează integrarea voluntariatului structurat în modelul de Angajare Asistată în Portugalia și România, creând noi căi de angajabilitate pentru persoanele cu dizabilități sau incapacități. Voluntariatul este un mijloc eficient pentru dezvoltarea competențelor, întărirea încrederii în sine și promovarea incluziunii și diversității la locurile de muncă și în comunități. În acest context, proiectul își propune să capaciteze persoanele cu dizabilități sau incapacități, extinzându-le rolul ca participanți activi în societate – atât ca voluntari, cât și ca membri valoroși ai forței de muncă.",
+    "paragraph1": "Proiectul VOICE promovează integrarea voluntariatului structurat în modelul de Angajare Asistată din Portugalia și România, creând noi căi de angajabilitate pentru persoanele cu dizabilități. Voluntariatul este un mijloc eficient pentru dezvoltarea abilităților, consolidarea încrederii și promovarea incluziunii și diversității la locul de muncă și în comunități. În acest context, proiectul își propune să capaciteze persoanele cu dizabilități, extinzându-le rolul ca participanți activi în societate – atât ca voluntari, cât și ca membri valoroși ai forței de muncă.",
     "subTitle": "Obiective specifice:",
-    "bullet1": "Dezvoltarea unui Kit de Resurse pentru Voluntariatul Orientat către Angajare, oferind profesioniștilor din Angajarea Asistată instrumente pentru a integra voluntariatul în procesul de integrare profesională.",
-    "bullet2": "Implementarea unei formări-pilot pentru 24 de profesioniști, evaluând eficacitatea voluntariatului structurat în Angajarea Asistată și colectând contribuții pentru îmbunătățirea abordării și a resurselor dezvoltate.",
-    "bullet3": "Diseminarea și valorizarea resurselor proiectului, prin evenimente multiplicatoare în fiecare țară parteneră și crearea unui videoclip promoțional pentru rețelele sociale."
+    "bullet1": "Dezvoltarea unui Kit de Resurse pentru Voluntariat Orientat spre Angajare, oferind profesioniștilor din Angajarea Asistată instrumente pentru integrarea voluntariatului în procesul de integrare profesională.",
+    "bullet2": "Implementarea unei formări pilot pentru 24 de profesioniști, evaluând eficacitatea voluntariatului structurat în Angajarea Asistată și colectând contribuții pentru îmbunătățirea abordării și resurselor dezvoltate.",
+    "bullet3": "Diseminarea și valorificarea resurselor proiectului prin evenimente multiplicatoare în fiecare țară parteneră și crearea unui videoclip promoțional pentru rețelele sociale."
   },
   "targetGroups": {
-    "headline": "Proiectul VOICE promovează incluziunea persoanelor cu dizabilități sau incapacități pe piața muncii prin voluntariat structurat în contextul Angajării Asistate.",
+    "headline": "Proiectul VOICE promovează incluziunea persoanelor cu dizabilități pe piața muncii prin voluntariat structurat în contextul Angajării Asistate.",
     "title": "Grupuri Țintă",
-    "paragraph1": "Proiectul VOICE promovează incluziunea persoanelor cu dizabilități sau incapacități pe piața muncii prin voluntariat structurat în contextul Angajării Asistate. Pentru a asigura succesul acestei abordări, implică diferite grupuri țintă:",
-    "bullet1": "Persoane cu dizabilități sau incapacități – Principalii beneficiari ai proiectului. VOICE își propune să îmbunătățească sprijinul acordat acestui public, întărind capacitatea profesioniștilor din Angajarea Asistată de a integra voluntariatul structurat ca strategie de incluziune profesională. Promovând această abordare, proiectul va contribui la dezvoltarea competențelor, întărirea încrederii în sine și îmbunătățirea perspectivelor de angajabilitate ale persoanelor cu dizabilități sau incapacități.",
-    "bullet2": "Profesioniști din Angajarea Asistată – Include tehnicieni de angajare asistată, consilieri vocaționali, tehnicieni de inserție profesională și alți profesioniști care oferă sprijin direct persoanelor cu dizabilități sau incapacități. Ei joacă un rol esențial în integrarea profesională a acestui public și vor fi capacitați să integreze voluntariatul structurat în modelul de Angajare Asistată, întărind intervenția lor și facilitând tranziția beneficiarilor către piața muncii.",
-    "bullet3": "Entități de Educație și Formare Profesională (EFP) – Responsabile pentru formarea și capacitatea tehnicienilor din Angajarea Asistată, aceste entități pot integra rezultatele proiectului VOICE pentru a întări calitatea programelor lor. Proiectul va pune la dispoziție resurse inovatoare care promovează voluntariatul structurat ca un instrument esențial pentru dezvoltarea competențelor și incluziunea profesională, în cadrul Angajării Asistate. Această abordare răspunde unei lacune existente în modelele actuale de formare.",
-    "bullet4": "Angajatori și organizații comunitare – Vor fi implicați în proiect pentru a promova oportunități de voluntariat incluziv și a adopta practici de Angajare Asistată, contribuind la reducerea barierelor și la promovarea diversității la locurile de muncă. Cu această abordare integrată, proiectul VOICE întărește angajabilitatea persoanelor cu dizabilități sau incapacități, promovând o societate mai accesibilă și echitabilă."
+    "paragraph1": "Proiectul VOICE promovează incluziunea persoanelor cu dizabilități pe piața muncii prin voluntariat structurat în contextul Angajării Asistate. Pentru a asigura succesul acestei abordări, implică diferite grupuri țintă:",
+    "bullet1": "Persoane cu dizabilități – Principalii beneficiari ai proiectului. VOICE își propune să îmbunătățească sprijinul oferit acestui public prin consolidarea capacității profesioniștilor din Angajarea Asistată de a integra voluntariatul structurat ca strategie de incluziune profesională. Prin promovarea acestei abordări, proiectul va contribui la dezvoltarea abilităților, consolidarea încrederii și îmbunătățirea perspectivelor de angajabilitate ale persoanelor cu dizabilități.",
+    "bullet2": "Profesioniști din Angajarea Asistată – Include tehnicieni de angajare asistată, consilieri vocaționali, tehnicieni de integrare profesională și alți profesioniști care oferă sprijin direct persoanelor cu dizabilități. Aceștia joacă un rol esențial în integrarea profesională a acestui public și vor fi instruiți să integreze voluntariatul structurat în modelul de Angajare Asistată, consolidându-și intervenția și facilitând tranziția beneficiarilor pe piața muncii.",
+    "bullet3": "Furnizori de Educație și Formare Profesională (EFP) – Responsabili pentru formarea și dezvoltarea capacității profesioniștilor din Angajarea Asistată, aceste entități vor putea integra rezultatele proiectului VOICE pentru a îmbunătăți calitatea programelor lor. Proiectul va oferi resurse inovatoare care promovează voluntariatul structurat ca instrument esențial pentru dezvoltarea abilităților și incluziunea profesională în cadrul Angajării Asistate. Această abordare răspunde unui gol în modelele actuale de formare.",
+    "bullet4": "Angajatori și organizații comunitare – Vor fi implicați în proiect pentru a promova oportunități de voluntariat incluziv și a adopta practici de Angajare Asistată, contribuind la reducerea barierelor și promovarea diversității la locul de muncă."
   },
   "activities": {
-    "headline": "Proiectul VOICE se bazează pe trei activități principale care vizează integrarea voluntariatului structurat în modelul de Angajare Asistată.",
+    "headline": "Proiectul dezvoltă resurse inovatoare și implementează formări pilot pentru a valida eficacitatea voluntariatului structurat în incluziunea profesională.",
     "title": "Activități",
-    "paragraph1": "Proiectul VOICE se bazează pe trei activități principale:",
-    "bullet1": "Dezvoltarea Kitului de Resurse pentru Voluntariatul Orientat către Angajare – Crearea de instrumente și linii directoare pentru profesioniștii din Angajarea Asistată, permițându-le să integreze voluntariatul ca strategie de dezvoltare a competențelor și integrare profesională.",
-    "bullet2": "Formare-Pilot pentru Profesioniști din Angajarea Asistată – Capacitatea a 24 de profesioniști, testând abordarea și colectând contribuții pentru optimizarea modelului și a resurselor dezvoltate.",
-    "bullet3": "Diseminare și Exploatare a Rezultatelor – Organizarea de evenimente multiplicatoare în Portugalia și România și producerea unui videoclip promoțional pentru a sensibiliza profesioniștii, angajatorii și comunitățile despre potențialul voluntariatului structurat în incluziunea profesională."
+    "paragraph1": "Proiectul VOICE dezvoltă resurse inovatoare și implementează formări pilot pentru a valida eficacitatea voluntariatului structurat în incluziunea profesională. Principalele activități includ:",
+    "bullet1": "Dezvoltarea Kitului de Resurse pentru Voluntariat Orientat spre Angajare – Crearea unui ghid practic cu instrumente și metodologii pentru integrarea voluntariatului structurat în modelul de Angajare Asistată.",
+    "bullet2": "Implementarea formării pilot – Dezvoltarea capacității a 24 de profesioniști din Portugalia și România, testând Kitul de Resurse și colectând contribuții pentru îmbunătățirea acestuia.",
+    "bullet3": "Organizarea evenimentelor multiplicatoare – Două evenimente, câte unul în fiecare țară parteneră, pentru a prezenta rezultatele proiectului și a promova adoptarea voluntariatului structurat în Angajarea Asistată.",
+    "bullet4": "Producerea videoclipului promoțional – Dezvoltarea de conținut audiovizual pentru rețelele sociale, evidențiind impactul voluntariatului structurat în incluziunea profesională.",
+    "bullet5": "Managementul proiectului și asigurarea calității – Monitorizarea regulată a activităților, evaluarea rezultatelor și implementarea ajustărilor necesare.",
+    "paragraph2": "Aceste activități vizează capacitarea profesioniștilor, îmbunătățirea angajabilității persoanelor cu dizabilități și promovarea voluntariatului structurat ca instrument de incluziune pe piața muncii în cadrul modelului de Angajare Asistată."
   },
   "results": {
-    "headline": "generează un impact concret prin dezvoltarea de resurse strategice și acțiuni de diseminare care impulsionează incluziunea profesională a persoanelor cu dizabilități sau incapacități.",
+    "headline": "generează un impact concret prin dezvoltarea de resurse strategice și acțiuni de diseminare care impulsionează incluziunea profesională a persoanelor cu dizabilități.",
     "title": "Rezultate",
-    "paragraph1": "Proiectul VOICE generează un impact concret prin dezvoltarea de resurse strategice și acțiuni de diseminare care impulsionează incluziunea profesională a persoanelor cu dizabilități sau incapacități.",
-    "subTitle": "Rezultate Tangibile",
+    "paragraph1": "Proiectul VOICE generează un impact concret prin dezvoltarea de resurse strategice și acțiuni de diseminare care impulsionează incluziunea profesională a persoanelor cu dizabilități.",
+    "subTitle1": "Rezultate Tangibile",
     "bullet1": "Broșură – Document informativ despre proiect, obiectivele sale și principalele rezultate.",
     "bullet2": "Website – Platformă digitală care centralizează informații, resurse și actualizări ale proiectului.",
-    "bullet3": "Kit de Resurse pentru Voluntariatul Orientat către Angajare – Instrumente și linii directoare pentru profesioniștii din Angajarea Asistată, promovând integrarea structurată a voluntariatului în angajabilitate.",
+    "bullet3": "Kit de Resurse pentru Voluntariat Orientat spre Angajare – Instrumente și linii directoare pentru profesioniștii din Angajarea Asistată, promovând integrarea structurată a voluntariatului în angajabilitate.",
     "bullet4": "Sesiuni de Formare-Pilot – Capacitatea a 24 de profesioniști în implementarea metodologiei proiectului.",
     "bullet5": "Evenimente Multiplicatoare – Organizarea a două evenimente de diseminare, unul în Portugalia și altul în România.",
     "bullet6": "Videoclip Promoțional – Material audiovizual pentru promovarea proiectului pe rețelele sociale.",
     "bullet7": "Raport de Evaluare – Analiză a impactului formării-pilot și a contribuțiilor colectate pentru îmbunătățirea resurselor.",
-    "bullet8": "Ghid de Bune Practici – Document care sistematizează lecțiile învățate și recomandările pentru replicarea modelului."
+    "bullet8": "Ghid de Bune Practici – Document care sistematizează lecțiile învățate și recomandările pentru replicarea modelului.",
+    "subTitle2": "Impact Așteptat",
+    "bullet9": "Acces mai mare la voluntariat structurat pentru persoanele cu dizabilități, promovând participarea lor activă în societate și pe piața muncii.",
+    "bullet10": "Consolidarea angajabilității și a competențelor profesionale prin experiențe practice aliniate cu cerințele pieței.",
+    "bullet11": "Facilitarea tranziției către angajarea remunerată, promovând parcursuri profesionale durabile.",
+    "bullet12": "Capacitatea îmbunătățită a profesioniștilor din Angajarea Asistată prin instrumente și formare inovatoare.",
+    "bullet13": "Implicare mai puternică din partea angajatorilor și organizațiilor comunitare, încurajând practici de recrutare mai incluzive."
   },
   "partners": {
-    "headline": "Organizații cu experiență în angajare asistată și voluntariat, dedicate promovării incluziunii profesionale.",
+    "headline": "Organizații cu expertiză în angajare asistată și voluntariat, dedicate promovării incluziunii profesionale.",
     "title": "Parteneri",
-    "consultis": "Consultis este o organizație fondată în 2005, cu sediul în Vila Nova de Gaia, Portugalia, specializată în consultanță de afaceri, inovație și angajare asistată. Membru activ al Asociației Portugheze de Angajare Asistată, gestionează un centru de resurse în Angajare Asistată în Porto, unde oferă sprijin companiilor, profesioniștilor și candidaților la angajare, în special grupurilor dezavantajate pe piața muncii, cum ar fi persoanele cu dizabilități sau incapacități, tinerii în risc de excludere, migranții și șomerii de lungă durată. În parteneriat cu companii, entități de formare, instituții educaționale, organizații din sectorul social și entități publice, Consultis dezvoltă soluții adaptate nevoilor pieței muncii, promovând strategii eficiente pentru incluziunea profesională și socială. Prin servicii de consultanță, formare și angajare asistată, sprijină implementarea de practici mai incluzive și sustenabile, asigurând sprijin continuu angajatorilor și profesioniștilor în procesul de integrare profesională. Aflați mai multe la ",
-    "consultisLink": "https://www.consultis.pt",
-    "pistaMágica": "PISTA MÁGICA este prima și singura Școală de Voluntariat din Portugalia, fondată în 2008. Acționează în formarea de voluntariat, crearea și implementarea de programe pentru organizații și dezvoltarea de proiecte de acțiune socială bazate pe voluntariat incluziv. Misiunea sa este de a face voluntariatul accesibil și util pentru toată lumea prin inovație, capacitănd voluntarii și organizațiile pentru un angajament social mai semnificativ și sustenabil. Recent, și-a extins activitatea în domeniul avocaturii, influențând politicile publice pentru a întări voluntariatul ca soluție pentru provocările sociale. Aflați mai multe la ",
-    "pistaMágicaLink": "https://www.pista-mágica.pt",
-    "hao": "Health Action Overseas Romania (HAO) este o organizație non-guvernamentală activă în România din 1991, specializată în furnizarea de servicii sociale comunitare pentru copii și tineri cu dizabilități în Constanța, Galați și București. Inițial axată pe sprijinirea copiilor cu dizabilități grave în orfelinate, și-a extins intervenția la programe educaționale și terapeutice, reședințe asistate, dezvoltare comunitară, apărarea drepturilor și sprijin familial. HAO oferă servicii de Angajare Asistată pentru tineri adulți cu dizabilități și acționează în domeniul educației și formării profesionale (VET), dezvoltând programe de capacitate care promovează competențe sociale, civice și profesionale. Oferta sa de formare include calificarea profesioniștilor implicați în incluziunea socio-profesională a persoanelor cu dizabilități, asigurând aplicarea de metodologii eficiente și centrate pe persoană. Bazându-se pe Modelul Social al Dizabilității, promovează capacitatea pentru viața independentă și integrarea profesională, asigurând o incluziune sustenabilă pe piața muncii. Aflați mai multe la ",
-    "haoLink": "https://www.hao.org.ro"
+    "consultis": "Consultis este o organizație portugheză înființată în 2005 și cu sediul în Vila Nova de Gaia, specializată în consultanță de afaceri, inovație și Angajare Asistată. Ca membru activ al Asociației Portugheze de Angajare Asistată, operează un Centru de Resurse în Porto, unde oferă sprijin angajatorilor, profesioniștilor și persoanelor aflate în căutarea unui loc de muncă — cu un accent deosebit pe grupurile aflate în dezavantaj pe piața muncii, inclusiv persoane cu dizabilități, tineri în risc de excluziune, migranți și șomeri de lungă durată. În parteneriat cu companii, entități de formare, instituții educaționale, organizații din sectorul social și entități publice, Consultis dezvoltă soluții adaptate nevoilor pieței muncii, promovând strategii eficiente pentru incluziunea profesională și socială. Prin serviciile sale de consultanță, formare și angajare asistată, sprijină implementarea unor practici mai incluzive și durabile, asigurând sprijin continuu angajatorilor și profesioniștilor în procesul de integrare în muncă. Află mai multe la ",
+    "consultisLink": "www.consultis.pt",
+    "pistaMágica": "PISTA MÁGICA este prima și singura Școală de Voluntariat din Portugalia, înființată în 2008. Se ocupă cu formarea în voluntariat, crearea și implementarea de programe pentru organizații și dezvoltarea de proiecte de acțiune socială bazate pe voluntariat incluziv. Misiunea sa este de a face voluntariatul accesibil și util pentru toată lumea prin inovație, capacitând voluntarii și organizațiile pentru o implicare socială mai semnificativă și durabilă. Recent, și-a extins activitatea în domeniul advocacy, influențând politicile publice pentru a consolida voluntariatul ca soluție la provocările sociale. Află mai multe la ",
+    "pistaMágicaLink": "www.pista-magica.pt",
+    "hao": "Health Action Overseas Romania (HAO) este o organizație non-guvernamentală activă în România din 1991, specializată în servicii sociale comunitare pentru copii și tineri cu dizabilități în Constanța, Galați și București. Inițial concentrată pe sprijinirea copiilor cu dizabilități severe din instituții rezidențiale, HAO și-a extins activitatea pentru a include programe educaționale și terapeutice, locuințe asistate, dezvoltare comunitară, advocacy și sprijin familial. HAO oferă servicii de Angajare Asistată pentru tineri adulți cu dizabilități și este activă în domeniul Educației și Formării Profesionale (EFP), dezvoltând programe de dezvoltare a capacității care promovează competențe sociale, civice și profesionale. Oferta sa de formare include calificarea profesioniștilor implicați în incluziunea socială și profesională a persoanelor cu dizabilități, asigurând aplicarea unor metodologii eficiente și centrate pe persoană. Bazată pe Modelul Social al Dizabilității, HAO promovează viața independentă și integrarea profesională, sprijinind incluziunea durabilă pe piața muncii. Află mai multe la ",
+    "haoLink": "www.hao.org.ro"
   },
   "news": {
     "headline": "Actualizări și știri despre proiectul VOICE și impactul său în comunitate.",
     "title": "Știri",
-    "subTitle": "Proiectul VOICE începe activitățile cu prima întâlnire transnațională la Porto",
-    "paragraph1": "Proiectul VOICE – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713) a avut loc pe 6 martie 2025, prima sa întâlnire transnațională la Porto, Portugalia.",
+    "subTitle": "Proiectul VOICE își începe activitățile cu prima întâlnire transnațională la Porto",
+    "paragraph1": "Proiectul VOICE – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713) și-a desfășurat prima întâlnire transnațională la Porto, Portugalia, pe 6 martie 2025.",
     "paragraph2": "Organizat de Consultis, entitatea coordonatoare, evenimentul a reunit partenerii din Portugalia și România pentru a structura implementarea voluntariatului structurat în modelul de Angajare Asistată.",
-    "paragraph3": "Întâlnirea s-a concentrat pe analiza provocărilor angajabilității persoanelor cu dizabilități sau incapacități și pe potențialul voluntariatului pentru dezvoltarea competențelor, întărirea încrederii în sine și incluziunea profesională. De asemenea, au fost discutate obiectivele proiectului, planul de lucru și strategiile pentru a asigura eficacitatea metodologiilor de dezvoltat.",
-    "paragraph4": "Cofinanțat de programul Erasmus+, proiectul VOICE va continua până la 30 iunie 2026. Pe parcursul a 18 luni, va dezvolta și testa resurse inovatoare pentru a întări incluziunea profesională, capacitănd profesioniștii din Angajarea Asistată să integreze voluntariatul structurat în practicile lor.",
-    "paragraph5": "Întâlnirea, desfășurată la Centrul de Resurse în Angajare Asistată al Consultis, a marcat începutul oficial al activităților și a întărit cooperarea între parteneri. Urmăriți-ne pentru mai multe actualizări despre progresul și impactul VOICE."
+    "paragraph3": "Întâlnirea s-a concentrat pe analiza provocărilor de angajabilitate ale persoanelor cu dizabilități și pe potențialul voluntariatului pentru dezvoltarea abilităților, consolidarea încrederii și incluziunea profesională. De asemenea, au fost discutate obiectivele proiectului, planul de lucru și strategiile pentru a asigura eficacitatea metodologiilor care urmează să fie dezvoltate.",
+    "paragraph4": "Co-finanțat prin programul Erasmus+, VOICE va continua până la 30 iunie 2026. Pe parcursul a 18 luni, va dezvolta și testa resurse inovatoare pentru consolidarea incluziunii profesionale, capacitând profesioniștii din Angajarea Asistată să integreze voluntariatul structurat în practicile lor.",
+    "paragraph5": "Întâlnirea, desfășurată la Centrul de Resurse în Angajare Asistată al Consultis, a marcat începutul oficial al activităților și a consolidat cooperarea între parteneri. Urmăriți-ne pentru mai multe actualizări despre progresul și impactul VOICE."
   },
   "footer": {
-    "contact": "Contactați-ne",
+    "contact": "Contactează-ne",
     "email": "Email",
     "phone": "Telefon",
-    "address": "Adresă",
-    "followUs": "Urmăriți-ne",
-    "rights": "Toate drepturile rezervate."
+    "address": "Adresă"
   }
 }

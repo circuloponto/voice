@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import styles from './News.module.css'; // Ensure you create a corresponding CSS file
-import newsImage from '../assets/news1_alt.jpg'; // Adjust the path as necessary
+import styles from './News.module.css';
+import newsImage from '../assets/news1_alt.jpg';
 
 const News = () => {
   const { t } = useTranslation();
@@ -28,4 +28,4 @@ const News = () => {
   );
 };
 
-export default News; 
+export default News;

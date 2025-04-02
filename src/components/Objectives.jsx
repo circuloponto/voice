@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import styles from './Objectives.module.css'; // Ensure you have a corresponding CSS file
+import styles from './Objectives.module.css';
 
 const Objectives = () => {
   const { t } = useTranslation();
