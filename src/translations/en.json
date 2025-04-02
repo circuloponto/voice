@@ -20,6 +20,7 @@
     }
   },
   "objectives": {
+    "headline": "aims to empower disabled individuals by strengthening their role as active participants in society.",
     "title": "Objectives",
     "paragraph1": "The VOICE project promotes the integration of structured volunteering into the Supported Employment model in Portugal and Romania, creating new employment pathways for disabled individuals.",
     "paragraph2": "Volunteering is an effective tool for skills development, confidence-building, and for fostering inclusion and diversity in workplaces and communities.",
@@ -30,6 +31,7 @@
     "bullet3": "Disseminate and valorise the project resources through multiplier events in each partner country and the creation of a project video spot for the social media campaign."
   },
   "targetGroups": {
+    "headline": "The VOICE project promotes the inclusion of disabled individuals in the labor market through structured volunteering within Supported Employment.",
     "title": "Target Groups",
     "paragraph1": "The VOICE project promotes the inclusion of disabled individuals in the labor market through structured volunteering in the context of Supported Employment. To ensure the success of this approach, several key target groups are involved:",
     "bullet1": "Disabled individuals: The main beneficiaries of the project. VOICE aims to improve the support provided to this group by equipping Supported Employment professionals to integrate structured volunteering as a strategy for professional inclusion. This approach will foster skills development, self-confidence, and enhance employability prospects.",
@@ -39,6 +41,7 @@
     "paragraph2": "Through this integrated approach, VOICE enhances employability for disabled individuals and promotes a more inclusive and equitable society."
   },
   "activities": {
+    "headline": "The VOICE project is based on three main activities aimed at integrating structured volunteering into the Supported Employment model.",
     "title": "Activities",
     "paragraph1": "The VOICE project is based on three main activities:",
     "bullet1": "Development of the Toolkit for Employment-Oriented Volunteering: Creation of tools and guidelines for Supported Employment professionals to integrate volunteering as a strategy for skill development and labor market inclusion.",
@@ -47,6 +50,7 @@
     "paragraph2": "These activities aim to build the capacity of professionals, strengthen the employability of disabled individuals, and promote structured volunteering as a tool for labor market inclusion within the Supported Employment model."
   },
   "results": {
+    "headline": "generates tangible outcomes through the development of strategic resources and dissemination actions aimed at strengthening the professional inclusion of disabled individuals.",
     "title": "Results",
     "paragraph1": "The VOICE project generates tangible outcomes through the development of strategic resources and dissemination actions aimed at strengthening the professional inclusion of disabled individuals.",
     "subTitle1": "Tangible Results:",
@@ -66,6 +70,7 @@
     "bullet13": "Stronger engagement from employers and community organisations, encouraging more inclusive recruitment practices."
   },
   "partners": {
+    "headline": "Organizations with expertise in supported employment and volunteering, dedicated to promoting professional inclusion.",
     "title": "Partners",
     "consultis": {
       "title": "Consultis",
@@ -88,6 +93,7 @@
     }
   },
   "news": {
+    "headline": "Updates and news about the VOICE project and its impact in the community.",
     "title": "News",
     "article1": {
       "title": "VOICE project kicks off with first transnational meeting in Porto",
