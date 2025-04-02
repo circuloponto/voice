@@ -337,7 +337,7 @@
 
   .menuItems_container .nav_item,
   .menuItems_container .contactsButton {
-    font-size: 56px;
+    font-size: 50px;
     text-align: left;
     width: auto;
     padding-left: 0;
@@ -404,5 +404,10 @@
 @media screen and (max-width: 400px) {
   .language {
     gap: 2px;
+  }
+
+  .menuItems_container .nav_item,
+  .menuItems_container .contactsButton {
+    font-size: 50px; /* Reduced by 10px from 56px */
   }
 }
