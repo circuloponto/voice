@@ -13,7 +13,7 @@ i18n
     resources: {
       en: { translation: enTranslations },
       pt: { translation: ptTranslations },
-      nl: { translation: roTranslations }
+      ro: { translation: roTranslations }
     },
     fallbackLng: 'en',
     interpolation: {
@@ -22,4 +22,4 @@ i18n
     debug: true
   });
 
-export default i18n; 
+export default i18n;
