@@ -34,24 +34,16 @@
   },
   "results": {
     "title": "Rezultate",
-    "content": {
-      "paragraph1": "Proiectul VOICE generează un impact concret prin dezvoltarea de resurse strategice și acțiuni de diseminare care impulsionează incluziunea profesională a persoanelor cu dizabilități sau incapacități.",
-      "subTitle": "Rezultate Tangibile",
-      "bullet1": "Broșură – Document informativ despre proiect, obiectivele sale și principalele rezultate.",
-      "bullet2": "Website – Platformă digitală care centralizează informații, resurse și actualizări ale proiectului.",
-      "bullet3": "Kit de Resurse pentru Voluntariatul Orientat către Angajare – Instrumente și linii directoare pentru profesioniștii din Angajarea Asistată, promovând integrarea structurată a voluntariatului în angajabilitate.",
-      "bullet4": "Sesiuni de Formare-Pilot – Capacitatea a 24 de profesioniști în implementarea metodologiei proiectului.",
-      "bullet5": "Raportul Activității-Pilot – Evaluare detaliată a formării, provocărilor și bunelor practici identificate.",
-      "bullet6": "Videoclip Promoțional – Producerea unui videoclip pentru a promova impactul proiectului, evidențiind rolul voluntariatului structurat în incluziunea profesională.",
-      "bullet7": "Campanie pe Rețelele Sociale – Strategie de comunicare digitală pentru a promova videoclipul promoțional, extinzând acoperirea proiectului.",
-      "bullet8": "Evenimente Multiplicatoare – Două evenimente, unul în Portugalia și altul în România, pentru a prezenta rezultatele proiectului și a încuraja adoptarea voluntariatului structurat ca instrument de incluziune profesională, în cadrul modelului de Angajare Asistată.",
-      "subTitle2": "Impact Așteptat",
-      "bullet9": "Acces mai mare la voluntariatul structurat pentru persoanele cu dizabilități sau incapacități, promovând participarea lor activă în societate și pe piața muncii.",
-      "bullet10": "Întărirea angajabilității și a competențelor profesionale prin experiențe practice aliniate cu cerințele pieței.",
-      "bullet11": "Facilitarea tranziției către angajarea remunerată, promovând parcursuri profesionale sustenabile.",
-      "bullet12": "Capacitatea profesioniștilor din Angajarea Asistată, impulsionând metodologii inovatoare și eficiente.",
-      "bullet13": "Implicare mai mare a angajatorilor și comunităților, încurajând practici de recrutare mai incluzive."
-    }
+    "paragraph1": "Proiectul VOICE generează un impact concret prin dezvoltarea de resurse strategice și acțiuni de diseminare care impulsionează incluziunea profesională a persoanelor cu dizabilități sau incapacități.",
+    "subTitle": "Rezultate Tangibile",
+    "bullet1": "Broșură – Document informativ despre proiect, obiectivele sale și principalele rezultate.",
+    "bullet2": "Website – Platformă digitală care centralizează informații, resurse și actualizări ale proiectului.",
+    "bullet3": "Kit de Resurse pentru Voluntariatul Orientat către Angajare – Instrumente și linii directoare pentru profesioniștii din Angajarea Asistată, promovând integrarea structurată a voluntariatului în angajabilitate.",
+    "bullet4": "Sesiuni de Formare-Pilot – Capacitatea a 24 de profesioniști în implementarea metodologiei proiectului.",
+    "bullet5": "Evenimente Multiplicatoare – Organizarea a două evenimente de diseminare, unul în Portugalia și altul în România.",
+    "bullet6": "Videoclip Promoțional – Material audiovizual pentru promovarea proiectului pe rețelele sociale.",
+    "bullet7": "Raport de Evaluare – Analiză a impactului formării-pilot și a contribuțiilor colectate pentru îmbunătățirea resurselor.",
+    "bullet8": "Ghid de Bune Practici – Document care sistematizează lecțiile învățate și recomandările pentru replicarea modelului."
   },
   "partners": {
     "title": "Parteneri",
@@ -79,4 +71,4 @@
     "followUs": "Urmăriți-ne",
     "rights": "Toate drepturile rezervate."
   }
-} 
+}
