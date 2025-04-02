@@ -5,6 +5,7 @@
 
 .partnersSection {
   margin-top: 200px;
+  margin-bottom: 100px;
   height: auto;
   width: calc(100vw - 145px);
   background: #f5c15116;
@@ -120,18 +121,14 @@ html[data-language='ro'] .label {
 } 
 
 /* Mobile styles */
-@media screen and (max-width: 770px) {
-  .partnersSection {
-    margin-top: 200px;
-  }
-}
 
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 770px) {
   .partnersSection {
     width: calc(100vw - 60px);
     margin-left: 40px;
     padding: 40px 20px;
-    
+    margin-top: 200px;
   }
 
   .partnersContainer {
@@ -144,19 +141,31 @@ html[data-language='ro'] .label {
   }
 
   .label {
-    left: -45px;
-    top: 30px;
+    left: -50px;
+    top: 35px;
     width: 60px;
   }
 
   .label span {
     font-size: 20px;
-    left: -26px;
+    left: -20px;
+  }
+
+  /* Portuguese specific adjustments for mobile */
+  html[data-language='pt'] .label {
+    left: -52px;
+    top: 37px;
+  }
+
+  /* Romanian specific adjustments for mobile */
+  html[data-language='ro'] .label {
+    left: -53px;
+    top: 38px;
   }
 
   .line {
-    left: -23px;
-    top: 100px;
+    left: -20px;
+    top: 120px;
   }
 }
 

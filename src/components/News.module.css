@@ -12,6 +12,7 @@
 
 .newsSection {
   margin-top: 200px;
+  margin-bottom: 100px;
   height:auto;
   width: calc(100vw - 145px);
   background: #f5c15116;
@@ -119,8 +120,8 @@ html[data-language='ro'] .label {
   }
 
   .label {
-    left: -45px; /* Adjusted position */
-    top: 30px;
+    left: -33px;
+    top: 20px;
     width: 60px; /* Ensure enough width for the label */
   }
 
@@ -129,8 +130,20 @@ html[data-language='ro'] .label {
     left: -20px;
   }
 
+  /* Portuguese specific adjustments for mobile */
+  html[data-language='pt'] .label {
+    left: -45px;
+    top: 30px;
+  }
+
+  /* Romanian specific adjustments for mobile */
+  html[data-language='ro'] .label {
+    left: -25px;
+    top: 10px;
+  }
+
   .line {
-    left: -30px; /* Adjusted line position */
+    left: -20px; /* Adjusted line position */
     top: 100px;
   }
 

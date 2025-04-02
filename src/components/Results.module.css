@@ -5,6 +5,7 @@
   
   .resultsSection {
     margin-top: 200px;
+    margin-bottom: 100px;
     height:auto;
     width: calc(100vw - 145px);
     background: #f5c15116;
@@ -130,7 +131,7 @@
   }
   
   /* Mobile styles */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 770px) {
   .resultsSection {
     width: calc(100vw - 60px);
     margin-left: 40px;
@@ -158,8 +159,8 @@
   }
 
   .label {
-    left: -59px;
-    top: 42px;
+    left: -40px;
+    top: 30px;
     width: 60px;
   }
 
@@ -168,9 +169,21 @@
     left: -20px;
   }
 
+  /* Portuguese specific adjustments for mobile */
+  html[data-language='pt'] .label {
+    left: -60px;
+    top: 50px;
+  }
+
+  /* Romanian specific adjustments for mobile */
+  html[data-language='ro'] .label {
+    left: -53px;
+    top: 40px;
+  }
+
   .line {
-    left: -22px;
-    top: 130px;
+    left: -20px;
+    top: 150px;
   }
 }
 
