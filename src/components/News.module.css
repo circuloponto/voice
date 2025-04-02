@@ -31,6 +31,7 @@
   
 }
 
+/* Default label position (English) */
 .label {
   position: absolute;
   left: -85px;
@@ -54,6 +55,16 @@
   text-transform: capitalize;
   display: flex;
   align-items: center;
+}
+
+/* Portuguese specific adjustments */
+html[data-language='pt'] .label {
+  left: -90px;
+}
+
+/* Romanian specific adjustments */
+html[data-language='ro'] .label {
+  left: -87px;
 }
 
 .line {

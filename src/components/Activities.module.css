@@ -65,6 +65,7 @@
   }
 }
 
+/* Default label position (English) */
 .label {
   position: absolute;
   left: -105px;
@@ -79,7 +80,7 @@
 
 .label span {
   transform: rotate(-90deg);
-  color: var(--color-green-dark);
+  color: var(--color-blue);
   font-size: 25px;
   font-weight: 700;
   white-space: nowrap;
@@ -88,6 +89,16 @@
   text-transform: capitalize;
   display: flex;
   align-items: center;
+}
+
+/* Portuguese specific adjustments */
+html[data-language='pt'] .label {
+  left: -110px;
+}
+
+/* Romanian specific adjustments */
+html[data-language='ro'] .label {
+  left: -107px;
 }
 
   .line {

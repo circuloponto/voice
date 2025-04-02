@@ -2,6 +2,7 @@ import React from 'react';
 import { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Lenis from '@studio-freight/lenis';
+import { useTranslation } from 'react-i18next';
 import './i18n';
 import './App.css';
 import Navbar from './components/Navbar';
@@ -15,6 +16,13 @@ import PartnersPage from './pages/PartnersPage';
 import NewsPage from './pages/NewsPage';
 
 function App() {
+  const { i18n } = useTranslation();
+
+  // Set language attribute on HTML element
+  useEffect(() => {
+    document.documentElement.setAttribute('data-language', i18n.language);
+  }, [i18n.language]);
+
   useEffect(() => {
     const lenis = new Lenis({
       duration: 1.2,

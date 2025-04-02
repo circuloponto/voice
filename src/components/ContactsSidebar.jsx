@@ -67,6 +67,22 @@ const ContactsSidebar = ({ isOpen, onClose }) => {
               </div>
             </div>
           </div>
+          <div className={styles.partnerCard}>
+            <div className={styles.contactDetails}>
+              <div className={styles.contactItem}>
+                <FaEnvelope className={styles.contactIcon} />
+                <a href={`mailto:${t('sidebar.consultis.email')}`}>{t('sidebar.consultis.email')}</a>
+              </div>
+              <div className={styles.contactItem}>
+                <FaPhone className={styles.contactIcon} />
+                <a href={`tel:${t('sidebar.consultis.mobile')}`}>{t('sidebar.consultis.mobile')}</a>
+              </div>
+              <div className={styles.contactItem}>
+                <FaMapMarkerAlt className={styles.contactIcon} />
+                <span>{t('sidebar.consultis.morada')}</span>
+              </div>
+            </div>
+          </div>
         <div className={styles.EuDisclaimer}>
 
           <div className={styles.euLogo}>
