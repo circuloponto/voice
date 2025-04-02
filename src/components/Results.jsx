@@ -17,7 +17,7 @@ const Project = () => {
         
         <div className={styles.text}>
           <p>{t('results.paragraph1')}</p>
-          <p className={styles.subTitle}>{t('results.subTitle')}</p>
+          <p className={styles.subTitle}>{t('results.subTitle1')}</p>
           <ul className={styles.bulletList}>
          
           
