@@ -175,8 +175,8 @@
 
   /* Romanian specific adjustments for mobile */
   html[data-language='ro'] .label {
-    left: -75px;
-    top: 60px;
+    left: -57px;
+    top: 45px;
   }
 
   .line {
@@ -213,13 +213,16 @@
   }
 
   .label {
-    left: -41px;
-    top: 47px;
+    left: -64px;
+    top: 50px;
     width: 55px;
   }
-
+  html[data-language='pt'] .label {
+    left: -55px;
+    top: 45px;
+  }
   .line {
-    top: 129px;
+    top: 170px;
     left: -20px;
   }
 }
