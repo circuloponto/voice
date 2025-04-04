@@ -120,26 +120,38 @@ const Navbar = () => {
 
         <div className={styles.rightSection}>
           <div className={styles.language}>
-            <span 
-              className={`${styles.nav_item} ${currentLang === 'pt' ? styles.active : ''}`}
-              onClick={() => changeLanguage('pt')}
-            >
-              pt
-            </span>
-            <span className={styles.nav_item_separator}>|</span>
-            <span 
-              className={`${styles.nav_item} ${currentLang === 'en' ? styles.active : ''}`}
-              onClick={() => changeLanguage('en')}
-            >
-              en
-            </span>
-            <span className={styles.nav_item_separator}>|</span>
-            <span 
-              className={`${styles.nav_item} ${currentLang === 'ro' ? styles.active : ''}`}
-              onClick={() => changeLanguage('ro')}
-            >
-              ro
-            </span>
+            {currentLang !== 'pt' && (
+              <>
+                <span 
+                  className={styles.nav_item}
+                  onClick={() => changeLanguage('pt')}
+                >
+                  pt
+                </span>
+                {currentLang === 'en' && <span className={styles.nav_item_separator}>|</span>}
+              </>
+            )}
+            {currentLang !== 'en' && (
+              <>
+                <span 
+                  className={styles.nav_item}
+                  onClick={() => changeLanguage('en')}
+                >
+                  en
+                </span>
+                {currentLang === 'pt' && <span className={styles.nav_item_separator}>|</span>}
+              </>
+            )}
+            {currentLang !== 'ro' && (
+              <>
+                <span 
+                  className={styles.nav_item}
+                  onClick={() => changeLanguage('ro')}
+                >
+                  ro
+                </span>
+              </>
+            )}
           </div>
 
           <button 
