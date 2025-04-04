@@ -127,7 +127,7 @@ html[data-language='ro'] .label {
 }
 
 /* Mobile styles */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 770px) {
   .activitiesSection {
     width: calc(100vw - 60px);
     margin-left: 40px;
@@ -156,7 +156,7 @@ html[data-language='ro'] .label {
 
   .label {
     left: -53px;
-    top: 37px;
+    top: 30px;
     width: 60px;
   }
 
@@ -167,14 +167,14 @@ html[data-language='ro'] .label {
 
   /* Portuguese specific adjustments for mobile */
   html[data-language='pt'] .label {
-    left: -60px;
-    top: 47px;
+    left: -47px;
+    top: 34px;
   }
 
   /* Romanian specific adjustments for mobile */
   html[data-language='ro'] .label {
-    left: -53px;
-    top: 37px;
+    left: -40px;
+    top: 25px;
   }
 
   .line {

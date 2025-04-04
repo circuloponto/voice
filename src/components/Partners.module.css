@@ -142,7 +142,7 @@ html[data-language='ro'] .label {
 
   .label {
     left: -50px;
-    top: 35px;
+    top: 25px;
     width: 60px;
   }
 
@@ -153,14 +153,14 @@ html[data-language='ro'] .label {
 
   /* Portuguese specific adjustments for mobile */
   html[data-language='pt'] .label {
-    left: -52px;
-    top: 37px;
+    left: -44px;
+    top: 30px;
   }
 
   /* Romanian specific adjustments for mobile */
   html[data-language='ro'] .label {
-    left: -53px;
-    top: 38px;
+    left: -42px;
+    top: 27px;
   }
 
   .line {

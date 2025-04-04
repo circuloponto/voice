@@ -136,7 +136,8 @@
     width: calc(100vw - 60px);
     margin-left: 40px;
     padding: 40px 20px;
-    margin-top: 60px;
+    /* margin-top: 60px */;
+    margin-top: 200px;
   }
 
   .text {
@@ -177,8 +178,8 @@
 
   /* Romanian specific adjustments for mobile */
   html[data-language='ro'] .label {
-    left: -53px;
-    top: 40px;
+    left: -42px;
+    top: 28px;
   }
 
   .line {
@@ -187,11 +188,7 @@
   }
 }
 
-@media screen and (max-width: 770px) {
-  .resultsSection {
-    margin-top: 200px;
-  }
-}
+
 
 /* Small mobile styles */
 @media screen and (max-width: 480px) {
@@ -221,12 +218,18 @@
   }
 
   .label {
-    left: -56px;
+    left: -34px;
     width: 55px;
+    top: 20px;
   }
 
   .line {
     left: -20px;
+    top: 120px;
+  }
+  html[data-language='pt'] .label {
+    left: -50px;
+    top: 36px;
   }
 }
 

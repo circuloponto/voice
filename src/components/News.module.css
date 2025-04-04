@@ -105,17 +105,14 @@ html[data-language='ro'] .label {
 } 
 
 /* Mobile styles */
-@media screen and (max-width: 770px) {
-  .newsSection {
-    margin-top: 200px;
-  }
-}
 
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 770px) {
   .newsSection {
     width: calc(100vw - 60px); /* Increased space for label */
     margin-left: 40px; /* Increased margin to accommodate label */
     padding: 40px 20px;
+    margin-top: 200px;
    
   }
 
@@ -132,14 +129,14 @@ html[data-language='ro'] .label {
 
   /* Portuguese specific adjustments for mobile */
   html[data-language='pt'] .label {
-    left: -45px;
-    top: 30px;
+    left: -35px;
+    top: 20px;
   }
 
   /* Romanian specific adjustments for mobile */
   html[data-language='ro'] .label {
-    left: -25px;
-    top: 10px;
+    left: -17px;
+    top: 3px;
   }
 
   .line {
@@ -177,8 +174,9 @@ html[data-language='ro'] .label {
   }
 
   .label {
-    left: -40px; /* Slightly adjusted for smallest screens */
+    left: -23px; /* Slightly adjusted for smallest screens */
     width: 55px;
+    top: 10px;
   }
 
   .label span {
@@ -186,7 +184,7 @@ html[data-language='ro'] .label {
   }
 
   .line {
-    left: -25px;
+    left: -20px;
   }
 
   .subTitle {
