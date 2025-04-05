@@ -21,20 +21,23 @@ const Project = () => {
           <ul className={styles.bulletList}>
          
           
-          <li>{t('results.bullet1')}</li>
-          <li>{t('results.bullet2')}</li>
-          <li>{t('results.bullet3')}</li>
-          <li>{t('results.bullet4')}</li>
-          <li>{t('results.bullet5')}</li>
-          <li>{t('results.bullet6')}</li>
-          <li>{t('results.bullet7')}</li>
-          <li>{t('results.bullet8')}</li>
-          <li>{t('results.subTitle2')}</li>
-          <li>{t('results.bullet9')}</li>
-          <li>{t('results.bullet10')}</li>
-          <li>{t('results.bullet11')}</li>
-          <li>{t('results.bullet12')}</li>
-          <li>{t('results.bullet13')}</li>
+          <li className={styles.bullet}>{t('results.bullet1')}</li>
+          <li className={styles.bullet}>{t('results.bullet2')}</li>
+          <li className={styles.bullet}>{t('results.bullet3')}</li>
+          <li className={styles.bullet}>{t('results.bullet4')}</li>
+          <li className={styles.bullet}>{t('results.bullet5')}</li>
+          <li className={styles.bullet}>{t('results.bullet6')}</li>
+          <li className={styles.bullet}>{t('results.bullet7')}</li>
+          <li className={styles.bullet}>{t('results.bullet8')}</li>
+          </ul>
+         
+          <p className={styles.subTitle}>{t('results.subTitle2')}</p>
+          <ul className={styles.bulletList}>
+          <li className={styles.bullet}>{t('results.bullet9')}</li>
+          <li className={styles.bullet}>{t('results.bullet10')}</li>
+          <li className={styles.bullet}>{t('results.bullet11')}</li>
+          <li className={styles.bullet}>{t('results.bullet12')}</li>
+          <li className={styles.bullet}>{t('results.bullet13')}</li>
           </ul>
         </div>
       </div>

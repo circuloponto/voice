@@ -57,7 +57,9 @@
     align-self: flex-start;
     font-weight: bold;
   }
-  
+  .bullet{
+    margin: 0 0 20px 0;
+  }
   @keyframes alternateColors {
     0% {
       color: var(--color-coral);

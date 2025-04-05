@@ -51,6 +51,10 @@
     color: var(--color-coral);
     margin: 40px 0 40px 0;
   }
+  .subTitle0{
+    color: var(--color-coral);
+    margin: 0 0 40px 0;
+  }
   
   @keyframes alternateColors {
     0% {
@@ -63,7 +67,9 @@
       color: var(--color-coral);
     }
   }
-
+.bullet{
+  margin: 0 0 20px 0;
+}
   /* Default label position (English) */
   .label {
     position: absolute;
@@ -215,11 +221,14 @@
       font-size: 16px;
     }
 
+    .subTitle0 {
+      margin: 0 0 20px 0;
+      font-size: 16px;
+    }
     .subTitle {
       margin: 20px 0;
       font-size: 15px;
     }
-
     .label {
       left: -44px;
       width: 55px;

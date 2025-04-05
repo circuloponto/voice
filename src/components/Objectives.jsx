@@ -12,13 +12,13 @@ const Objectives = () => {
       </div>
       <div className={styles.line}></div>
       <div className={styles.text}>
-     {/*  <h2 className={styles.title}>{t('objectives.title')}</h2> */}
+      <h3 className={styles.subTitle0}>{t('objectives.subTitle0')}</h3>
       <p>{t('objectives.paragraph1')}</p>
       <h3 className={styles.subTitle}>{t('objectives.subTitle')}</h3>
       <ul className={styles.bulletList}>
-        <li>{t('objectives.bullet1')}</li>
-        <li>{t('objectives.bullet2')}</li>
-        <li>{t('objectives.bullet3')}</li>
+        <li className={styles.bullet}>{t('objectives.bullet1')}</li>
+        <li className={styles.bullet}>{t('objectives.bullet2')}</li>
+        <li className={styles.bullet}>{t('objectives.bullet3')}</li>
       </ul>
         </div>
       

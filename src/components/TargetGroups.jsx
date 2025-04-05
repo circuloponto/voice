@@ -15,10 +15,10 @@ const TargetGroups = () => {
         <div className={styles.text}>
           <p>{t('targetGroups.paragraph1')}</p>
           <ul className={styles.bulletList}>
-            <li>{t('targetGroups.bullet1')}</li>
-            <li>{t('targetGroups.bullet2')}</li>
-            <li>{t('targetGroups.bullet3')}</li>
-            <li>{t('targetGroups.bullet4')}</li>
+            <li className={styles.bullet}>{t('targetGroups.bullet1')}</li>
+            <li className={styles.bullet}>{t('targetGroups.bullet2')}</li>
+            <li className={styles.bullet}>{t('targetGroups.bullet3')}</li>
+            <li className={styles.bullet}>{t('targetGroups.bullet4')}</li>
           </ul>
         </div>
       

@@ -13,7 +13,7 @@ const Partners = () => {
 
     // Create the HTML with highlighting
     const html = `
-      <p>
+      <p >
         ${consultisText.replace(/(Consultis)/, `<span class="${styles.partnerName}">$1</span>`)}
         <a class="${styles.link}" href="https://www.consultis.pt" target="_blank" rel="noopener noreferrer">${t('partners.consultisLink')}</a>
       </p>
