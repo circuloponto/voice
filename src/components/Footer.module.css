@@ -12,6 +12,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 3rem;
 }
 
 .footerLeft {
@@ -21,6 +22,14 @@
 }
 
 .footerLogo {
+  height: 50px;
+  width: auto;
+}
+.footerLogoPista {
+  height: 80px;
+  width: auto;
+}
+.footerLogoHAO {
   height: 40px;
   width: auto;
 }
@@ -70,19 +79,10 @@
   align-items: center;
 }
 
-.socialLinks {
-  display: flex;
-  gap: 1rem;
-}
-
-.socialLinks a {
+.disclaimer{
   color: var(--color-blue);
-  font-size: 1.2rem;
-  transition: color 0.3s ease;
-}
-
-.socialLinks a:hover {
-  color: var(--color-coral);
+  font-size: 0.8rem;
+  opacity: 0.6;
 }
 
 .footerRights {
