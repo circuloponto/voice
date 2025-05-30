@@ -11,7 +11,7 @@
     "footer": "contacte"
   },
   "sidebar": {
-    "title": "VOICE – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713)",
+    "title": "VOICE – Volunteering Opportunities for Inclusion and Competence development of disabled individuals within supported Employment (2024-2-PT01-KA210-VET-000270713)",
     "consultis": {
       "title": "Consultis",
       "email": "crea@consultis.pt",
@@ -26,7 +26,7 @@
     "headline": "își propune să capaciteze persoanele cu dizabilități, extinzându-le rolul ca participanți activi în societate.",
     "title": "Obiective",
     "paragraph1": "Proiectul VOICE promovează integrarea voluntariatului structurat în modelul de Angajare Asistată din Portugalia și România, creând noi căi de angajabilitate pentru persoanele cu dizabilități. Voluntariatul este un mijloc eficient pentru dezvoltarea abilităților, consolidarea încrederii și promovarea incluziunii și diversității la locul de muncă și în comunități. În acest context, proiectul își propune să capaciteze persoanele cu dizabilități, extinzându-le rolul ca participanți activi în societate – atât ca voluntari, cât și ca membri valoroși ai forței de muncă.",
-    "subTitle": "Obiective specifice:",
+    "subTitle": "Obiective Specifice:",
     "bullet1": "Dezvoltarea unui Kit de Resurse pentru Voluntariat Orientat spre Angajare, oferind profesioniștilor din Angajarea Asistată instrumente pentru integrarea voluntariatului în procesul de integrare profesională.",
     "bullet2": "Implementarea unei formări pilot pentru 24 de profesioniști, evaluând eficacitatea voluntariatului structurat în Angajarea Asistată și colectând contribuții pentru îmbunătățirea abordării și resurselor dezvoltate.",
     "bullet3": "Diseminarea și valorificarea resurselor proiectului prin evenimente multiplicatoare în fiecare țară parteneră și crearea unui videoclip promoțional pentru rețelele sociale."
@@ -95,6 +95,7 @@
     "contact": "Contactează-ne",
     "email": "Email",
     "phone": "Telefon",
-    "address": "Adresă"
+    "address": "Adresă",
+    "rights": "Toate drepturile rezervate."
   }
 }

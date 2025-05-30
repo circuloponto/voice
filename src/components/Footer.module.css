@@ -83,6 +83,7 @@
   color: var(--color-blue);
   font-size: 0.8rem;
   opacity: 0.6;
+  text-align: justify;
 }
 
 .footerRights {

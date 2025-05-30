@@ -11,7 +11,7 @@
     "footer": "contacts"
   },
   "sidebar": {
-    "title": "VOICE – Volunteering Opportunities for Inclusion and Competence Development of Disabled Individuals within Supported Employment (2024-2-PT01-KA210-VET-000270713)",
+    "title": "VOICE – Volunteering Opportunities for Inclusion and Competence development of disabled individuals within supported Employment (2024-2-PT01-KA210-VET-000270713)",
     "consultis": {
       "title": "Consultis",
       "email": "crea@consultis.pt",
@@ -27,7 +27,7 @@
     "title": "Objectives",
     "subTitle0":"General Objective:",
     "paragraph1": "The VOICE project promotes the integration of structured volunteering in the Supported Employment model in Portugal and Romania, creating new paths to employability for disabled individuals. Volunteering is an effective means for skill development, confidence building, and promoting inclusion and diversity in workplaces and communities. In this context, the project aims to empower disabled individuals, expanding their role as active participants in society – both as volunteers and as valuable members of the workforce.",
-    "subTitle": "Specific objectives:",
+    "subTitle": "Specific Objectives:",
     "bullet1": "Development of an Employment-Oriented Volunteering Resource Kit, providing Supported Employment professionals with tools to integrate volunteering into the professional integration process.",
     "bullet2": "Implementation of pilot training for 24 professionals, evaluating the effectiveness of structured volunteering in Supported Employment and collecting inputs for improving the approach and resources developed.",
     "bullet3": "Dissemination and exploitation of project resources through multiplier events in each partner country and creation of a promotional video for social networks."
@@ -96,6 +96,7 @@
     "contact": "Contact Us",
     "email": "Email",
     "phone": "Phone",
-    "address": "Address"
+    "address": "Address",
+    "rights": "All rights reserved."
   }
 }
