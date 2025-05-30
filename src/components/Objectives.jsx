@@ -14,6 +14,7 @@ const Objectives = () => {
       <div className={styles.text}>
       <h3 className={styles.subTitle0}>{t('objectives.subTitle0')}</h3>
       <p>{t('objectives.paragraph1')}</p>
+      <p>{t('objectives.paragraph2')}</p>
       <h3 className={styles.subTitle}>{t('objectives.subTitle')}</h3>
       <ul className={styles.bulletList}>
         <li className={styles.bullet}>{t('objectives.bullet1')}</li>

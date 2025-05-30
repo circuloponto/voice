@@ -20,6 +20,7 @@ const Objectives = () => {
         <li className={styles.bullet}>{t('activities.bullet2')}</li>
         <li className={styles.bullet}>{t('activities.bullet3')}</li>
       </ul>
+      <p>{t('activities.paragraph2')}</p>
         </div>
       
     </section>

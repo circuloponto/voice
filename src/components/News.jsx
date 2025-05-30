@@ -21,7 +21,7 @@ const News = () => {
           <p>{t('news.paragraph2')}</p>
           <p>{t('news.paragraph3')}</p>
           <p>{t('news.paragraph4')}</p>
-          <p>{t('news.paragraph5')}</p>
+         
         </div>
       </div>
     </section>

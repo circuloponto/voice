@@ -20,6 +20,7 @@ const TargetGroups = () => {
             <li className={styles.bullet}>{t('targetGroups.bullet3')}</li>
             <li className={styles.bullet}>{t('targetGroups.bullet4')}</li>
           </ul>
+          <p>{t('targetGroups.paragraph2')}</p>
         </div>
       
     </section>
