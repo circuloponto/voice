@@ -16,7 +16,7 @@ const HeadlineObjectives = () => {
       <div className={styles.projectsContainer}>
         <div className={styles.headline}>VOICE</div>
         <div className={styles.text}>
-        Volunteering Opportunities for Inclusion and Competence development of disabled individuals within supported Employment (2024-2-PT01-KA210-VET-000270713) 
+        Volunteering Opportunities for Inclusion and Competence development of disabled individuals within supported Employment 2024-2-PT01-KA210-VET-000270713 
         </div>
       </div>
      
