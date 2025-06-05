@@ -15,7 +15,7 @@ const Partners = () => {
     const html = `
       <p >
         ${consultisText.replace(/(Consultis)/, `<span class="${styles.partnerName}">$1</span>`)}
-        <a class="${styles.link}" href="https://www.consultis.pt" target="_blank" rel="noopener noreferrer">${t('partners.consultisLink')}</a>
+        <a class="${styles.link}" href="https://consultis.pt/pt_index.html" target="_blank" rel="noopener noreferrer">${t('partners.consultisLink')}</a>
       </p>
       <p>
         ${pistaMagicaText.replace(/(PISTA MÁGICA)/, `<span class="${styles.partnerName}">$1</span>`)}
