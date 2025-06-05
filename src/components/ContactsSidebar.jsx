@@ -51,6 +51,7 @@ const ContactsSidebar = ({ isOpen, onClose }) => {
               </div>
             </div>
           </div>
+
           <div className={styles.partnerCard}>
             <div className={styles.contactDetails}>
               <div className={styles.contactItem}>
@@ -67,19 +68,20 @@ const ContactsSidebar = ({ isOpen, onClose }) => {
               </div>
             </div>
           </div>
+
           <div className={styles.partnerCard}>
             <div className={styles.contactDetails}>
               <div className={styles.contactItem}>
                 <FaEnvelope className={styles.contactIcon} />
-                <a href={`mailto:${t('sidebar.consultis.email')}`}>{t('sidebar.consultis.email')}</a>
+                <a href={`mailto:${t('sidebar.HAO.email')}`}>{t('sidebar.HAO.email')}</a>
               </div>
               <div className={styles.contactItem}>
                 <FaPhone className={styles.contactIcon} />
-                <a href={`tel:${t('sidebar.consultis.mobile')}`}>{t('sidebar.consultis.mobile')}</a>
+                <a href={`tel:${t('sidebar.HAO.mobile')}`}>{t('sidebar.HAO.mobile')}</a>
               </div>
               <div className={styles.contactItem}>
                 <FaMapMarkerAlt className={styles.contactIcon} />
-                <span>{t('sidebar.consultis.morada')}</span>
+                <span>{t('sidebar.HAO.morada')}</span>
               </div>
             </div>
           </div>
