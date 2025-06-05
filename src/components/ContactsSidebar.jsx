@@ -4,7 +4,7 @@ import styles from './ContactsSidebar.module.css';
 import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaTimes } from 'react-icons/fa';
 import ptLogo from '../assets/PT_Disclaimer.png';
 import enLogo from '../assets/EN_Disclaimer.png';
-import roLogo from '../assets/RO_Disclaimer.jpg';
+import roLogo from '../assets/RO_Disclaimer.png';
 
 
 
