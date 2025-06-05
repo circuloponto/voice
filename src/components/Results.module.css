@@ -54,7 +54,7 @@
   .subTitle{
     color: var(--color-coral);
     margin: 40px 0 40px 0;
-    align-self: flex-start;
+    align-self: center;
     font-weight: bold;
   }
   .bullet{
