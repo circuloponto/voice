@@ -35,6 +35,9 @@ const ContactsSidebar = ({ isOpen, onClose }) => {
           <div className={styles.title}>
             {t('sidebar.title')}
           </div>
+          <div className={styles.numberProject}>
+            {t('sidebar.numberProject')}
+          </div>
           <div className={styles.partnerCard}>
             <div className={styles.contactDetails}>
               <div className={styles.contactItem}>
