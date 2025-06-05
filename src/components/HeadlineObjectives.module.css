@@ -41,6 +41,8 @@
   margin: 0 auto;
   padding: 100px 0; /* Match Activities padding */
   display: flex;
+  line-height: 25px;
+  /* flex-direction: column; */
   justify-content: center;
   align-items: center;
   gap: clamp(20px, 2vw, 30px);
@@ -64,11 +66,21 @@
 .text {
   color: var(--color-white);
   width: clamp(200px, 30vw, 500px); /* Control width with clamp */
-  text-align: justify;
+  text-align: center;
   font-size: clamp(14px, 1.2vw, 20px);
   font-weight: 200;
   z-index: 10;
   flex-shrink: 0;  /* Prevent shrinking */
+}
+.projectName {
+  color: var(--color-white);
+  width: clamp(200px, 30vw, 500px); /* Control width with clamp */
+  text-align: justify;
+  font-size: clamp(14px, 1.2vw, 20px);
+  font-weight: 200;
+  z-index: 10;
+  flex-shrink: 0;
+  text-align: center;
 }
 
 /* Add media query for smaller screens */

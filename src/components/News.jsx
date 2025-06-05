@@ -18,8 +18,11 @@ const News = () => {
         <img src={newsImage} alt="News" className={styles.newsImage} />
         <div className={styles.text}>
           <p>{t('news.paragraph1')}</p>
+          <br/>
           <p>{t('news.paragraph2')}</p>
+          <br/>
           <p>{t('news.paragraph3')}</p>
+          <br/>
           <p>{t('news.paragraph4')}</p>
          
         </div>

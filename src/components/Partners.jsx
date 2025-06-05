@@ -22,9 +22,9 @@ const Partners = () => {
         <a class="${styles.link}" href="https://www.pista-magica.pt" target="_blank" rel="noopener noreferrer">${t('partners.pistaMágicaLink')}</a>
       </p>
       <p>
-        ${haoText.replace(/(Health Action Overseas Romania)/, `<span class="${styles.partnerName}">$1</span>`)}
-        <a class="${styles.link}" href="https://www.hao.org.ro" target="_blank" rel="noopener noreferrer">${t('partners.haoLink')}</a>
-      </p>
+ ${haoText.replace(/(Health Action Overseas Romania \(HAO\) )/, `<span class="${styles.partnerName}">$1</span>`)}
+ <a class="${styles.link}" href="https://www.hao.org.ro" target="_blank" rel="noopener noreferrer">${t('partners.haoLink')}</a>
+</p>
     `;
     setContent(html);
   }, [t, i18n.language]);

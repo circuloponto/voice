@@ -121,6 +121,7 @@ html[data-language='ro'] .label {
 .partnerName {
   color: var(--color-coral);
   font-weight: bold;
+  text-transform: uppercase
 } 
 
 /* Mobile styles */
